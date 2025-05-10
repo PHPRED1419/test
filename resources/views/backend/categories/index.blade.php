@@ -10,7 +10,7 @@
         @include('backend.categories.partials.top-show')
         @include('backend.layouts.partials.messages') 
 
-        <button id="deleteSelected" class="btn btn-danger mb-3">Delete Selected</button>
+        <button id="deleteSelected" class="btn btn-danger mb-3">Delete</button>
         <div class="table-responsive product-table">
             <table class="table table-striped table-bordered display ajax_view" id="categories_table">
                 <thead>
