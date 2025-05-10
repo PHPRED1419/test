@@ -1,0 +1,13 @@
+{
+    "name": "VideoAlbum",
+    "alias": "videoalbum",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VideoAlbum\\Providers\\VideoAlbumServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

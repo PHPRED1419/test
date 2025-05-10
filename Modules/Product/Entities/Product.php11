@@ -1,0 +1,39 @@
+<?php
+
+namespace Modules\Product\Entities;
+
+use Illuminate\Database\Eloquent\Model;
+use App\Models\ProductMedia;
+use App\Models\ProductColor;
+use App\Models\ProductSize;
+use App\Models\ProductStock;
+use App\Models\Category;
+
+class Product extends Model
+{
+    protected $table = 'wl_products';     
+    protected $primaryKey = 'products_id'; 
+    public $timestamps = false; 
+    
+    public function media()
+    {
+        return $this->hasMany(ProductMedia::class, 'products_id');
+    }
+
+    public function colors()
+    {
+        return $this->hasMany(ProductColor::class, 'product_id');
+    }
+
+    public function sizes()
+    {
+        return $this->hasMany(ProductSize::class, 'product_id');
+    }
+
+    public function stock()
+    {
+        return $this->hasOne(ProductStock::class, 'product_id');
+    }
+    
+
+}

@@ -1,0 +1,13 @@
+{
+    "name": "VideoGallery",
+    "alias": "videogallery",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VideoGallery\\Providers\\VideoGalleryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

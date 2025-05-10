@@ -1,0 +1,22 @@
+{
+    "ThemeBusiness": false,
+    "Article": false,
+    "Service": true,
+    "Booking": false,
+    "Home": true,
+    "Pages": true,
+    "Category": true,
+    "Product": true,
+    "ApplicationCategory": true,
+    "Acategory": true,
+    "Aproduct": true,
+    "BlogCategory": true,
+    "Blogs": true,
+    "Faqs": true,
+    "ImageAlbum": true,
+    "VideoAlbum": true,
+    "ImageGallery": true,
+    "VideoGallery": true,
+    "Testimonials": true,
+    "Keywords": true
+}

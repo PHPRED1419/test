@@ -1,0 +1,13 @@
+{
+    "name": "ImageAlbum",
+    "alias": "imagealbum",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ImageAlbum\\Providers\\ImageAlbumServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

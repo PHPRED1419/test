@@ -1,0 +1,89 @@
+@extends('backend.layouts.master')
+
+@section('title')
+    @include('backend.pages.testimonials.partials.title')
+@endsection
+
+@section('admin-content')
+    @include('backend.pages.testimonials.partials.header-breadcrumbs')
+    <div class="container-fluid">
+        @include('backend.layouts.partials.messages')
+        <div class="create-page">
+            <form action="{{ route('admin.testimonials.update', $testimonial->testimonial_id) }}" method="POST" enctype="multipart/form-data" data-parsley-validate data-parsley-focus="first">
+                @csrf
+                @method('put')
+                <div class="form-body">
+                <div class="card-body">
+                        <div class="row ">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="control-label" for="title">Name <span class="required">*</span></label>
+                                    <input type="text" class="form-control" id="name" name="name" value="{{ $testimonial->name }}" placeholder="Enter Name" required=""/>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="control-label" for="title">Email <span class="optional">(optional)</span></label>
+                                    <input type="text" class="form-control" id="email" name="email" value="{{ $testimonial->email }}" placeholder="Enter Email" />
+                                </div>
+                            </div>
+                            
+                        </div>
+
+                        
+                        <div class="row">
+                        <?php
+                        /*
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="control-label" for="image">Profile Photo <span class="optional">(optional)</span></label>
+                                    <input type="file" class="form-control dropify" data-height="100" data-allowed-file-extensions="png jpg jpeg webp" id="photo" name="photo" data-default-file="{{ $testimonial->photo != null ? asset('assets/images/testimonials/'.$testimonial->photo) : null }}"/>
+                                </div>
+                            </div>
+                        */
+                        ?>
+                            <div class="col-md-6">
+                                <div class="form-group has-success">
+                                    <label class="control-label" for="status">Status <span class="required">*</span></label>
+                                    <select class="form-control custom-select" id="status" name="status" required>
+                                        <option value="1" {{ $testimonial->status === 1 ? 'selected' : null }}>Active</option>
+                                        <option value="0" {{ $testimonial->status === 0 ? 'selected' : null }}>Inactive</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label" for="title">Comment <span class="required">*</span></label>
+                                     <textarea style="height:100px;" class="form-control" id="description" name="description"  placeholder="Enter Comment" required=""/>{{ $testimonial->description }}</textarea>
+                                </div>
+
+                                <div class="form-actions">
+                                    <div class="card-body">
+                                        <button type="submit" class="btn btn-success"> <i class="fa fa-check"></i> Save</button>
+                                        <a href="{{ route('admin.testimonials.index') }}" class="btn btn-dark">Cancel</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+
+
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+@endsection
+
+@section('scripts')
+    <script>
+    $(".categories_select").select2({
+        placeholder: "Select a Category"
+    });
+    </script>
+@endsection

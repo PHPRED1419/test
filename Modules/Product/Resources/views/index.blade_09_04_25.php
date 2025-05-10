@@ -1,0 +1,125 @@
+@extends('frontend.layouts.master')
+@section('title')
+    {{ config('app.name') }} | {{ config('app.description') }}
+@endsection
+@section('main-content')
+@include('frontend.layouts.partials.inner-banner')
+
+<nav aria-label="breadcrumb" class="breadcrumb_bg">
+<div class="container-xxl position-relative">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="{{ URL::to('/')  }}">Home</a></li>
+<li class="breadcrumb-item">Products</li>
+</ol>
+</div>
+</nav>
+
+<div class="mt-3 mb-5">
+<div class="container-xxl position-relative">
+<div class="cms_area">
+<div class="row">
+<div class="col-lg-4 no_pad pe-lg-4">
+<div class="filter_box">
+<p class="float-start text-uppercase d-none d-lg-block fw-bold fs-5 text-uppercase pb-2">Filters By:</p>
+<p class="float-start text-uppercase d-block d-lg-none fw-bold fs-5 text-uppercase filt_bar" onclick="$('.filt_area').slideToggle();"><img src="{{ asset('assets/frontend/images/menu.svg') }}" loading="lazy" alt="" class=" align-text-top" width="25" height="25"> Filters</p>
+
+<p class="float-end blue fs13 "><a href="{{ url('products/') }}" class="btn btn-sm btn-info fw-semibold">Clear All</a></p>
+<p class="clearfix"></p>
+<div class="tab_hid filt_area mt-3 mt-lg-0">
+
+<div class="accordion mb-3 shadow rounded-2" id="exp1">
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"><b>Products</b></button></h2>
+<div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#exp12">
+<div class="accordion-body subcate_filt p-2 fw-medium rounded-2">
+<ul class="list-unstyled">
+@if($categories->isNotEmpty())  
+@foreach($categories as $index => $row)  
+<li>
+    <a href="#" class="align-items-center collapsed fw-medium" data-bs-toggle="collapse" 
+       aria-expanded="false" data-bs-target="#cate{{ $index }}" 
+       aria-controls="contents-collapse">
+       {{ $row->name }}
+    </a>    
+    @if($row->subcategories->isNotEmpty())
+    <ul class="list-unstyled collapse subcate_list" id="cate{{ $index }}">
+        @foreach($row->subcategories as $subcategory)
+            <li><a href="{{ url('category/' . $subcategory->slug) }}">{{ $subcategory->name }}</a></li>
+        @endforeach
+    </ul>
+    @endif
+</li>
+@endforeach
+@endif
+</ul>
+</div></div></div></div>
+
+
+</div>
+</div>
+</div>
+
+<div class="col-lg-8 no_pad">
+<h1>Products</h1>
+
+<p class="clearfix"></p>
+
+<div class="product_listing">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
+        @forelse($products as $row)
+            <div class="col">
+                    <div class="pro_box position-relative overflow-hidden trans">
+                    <div class="col">
+                    <div class="pro_box position-relative overflow-hidden trans">
+                    <div class="pro_pic overflow-hidden text-center rounded-4">
+                    <figure class="d-table-cell align-middle text-center">
+                   
+                    <a href="{{ url('products/details/' . $row->slug) }}" title="{{ $row->product_name  }}">   
+                   <img src="{{ asset('assets/images/products/' . $row->media) }}" loading="lazy" fetchpriority="low" decoding="async" alt="{{ $row->product_name }}" style="width: 673px;height: 438px;"></a>
+                    </figure></div>
+
+                    <div class="pro_cont position-relative  p-3 p-md-4 bg-white rounded-4">
+                    <p class="pro_name overflow-hidden fw-semibold vollkorn"><a href="{{ url('products/details/' . $row->slug) }}" title="">{{ $row->product_name }}</a></p>
+                    <p class="pro_txt overflow-hidden fw-medium mt-2 pt-2 position-relative">
+                    {!! char_limiter($row->products_description,200,'..') !!}
+                    </p>
+                    <div class="mt-3 specfy overflow-hidden">
+                    <h4 class="fw-bold text-uppercase Inter mb-2">Specification</h4>
+                    {!! char_limiter($row->products_specification,300,'..') !!}
+                    </div>
+                    <div class="mt-3">
+                    <a href="{{ url('products/details/' . $row->slug) }}" class="btn btn-info rounded-5">Get Price Now!</a>
+                    <a href="{{ url('products/details/' . $row->slug) }}" class="btn btn-text rounded-5">Technical Details</a>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        @empty
+            <div class="col-12 justify-content-center">
+                <div class="alert alert-info text-center py-4">
+                    <h4>No products found</h4>
+                    <p>We couldn't find any products matching your criteria</p>
+                     {{-- <a href="URL::to('/')" class="btn btn-primary">Return to Home</a> --}}
+                </div>
+            </div>
+        @endforelse
+    </div>
+</div>
+
+
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+
+<div class="clearfix"></div>
+
+@endsection

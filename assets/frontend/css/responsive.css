@@ -1,0 +1,5389 @@
+@media (max-width:1290px) {
+    .click_on {
+        right: -17px
+    }
+    .grid-banner-container {
+        grid-template-columns: 58% 1fr 0fr !important
+    }
+    .grid-banner-container .item3,
+    .grid-banner-container .item4 {
+        width: 233px !important;
+        max-width: 100%
+    }
+    .Trending_side_list {
+        height: 190px !important
+    }
+    .right_float {
+        width: 19%
+    }
+    .df-switch {
+        width: 24%
+    }
+    .right_sec_head {
+        height: 26px
+    }
+    #hr_video .slider-main {
+        width: 73.3% !important
+    }
+    .read_more_click {
+        width: 34%
+    }
+}
+
+@media(max-width:1190px) {
+    aside.item::before {
+        top: 39px;
+        left: 56px;
+        right: 37px;
+        width: 183px;
+        height: 198px
+    }
+    .click_on {
+        right: -3px
+    }
+    .top_menu {
+        padding: 0 1px 0 0
+    }
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        margin: 0 17px
+    }
+    .whychoose_sec {
+        padding: 0 11px
+    }
+    article.plan-blk {
+        max-width: 93%
+    }
+    #right_jobbox {
+        left: 0 !important;
+        top: 44px !important
+    }
+    .middleSection1,
+    .middleSection2 {
+        padding: 3px 3px 0 4px !important
+    }
+    header .navbar-brand {
+        padding: 17px 1px !important
+    }
+    .middle_article {
+        max-width: 66%
+    }
+    .top_article {
+        max-width: 33%
+    }
+
+    .bottom_article,
+    .item4,
+    .loina,
+    .loina-12,
+    .slick-slider.slider-thumbs,
+    .website-ads {
+        display: none
+    }
+    .left_align {
+        width: 19%;
+        padding: 0 0 0 12px !important
+    }
+   
+    .right_align {
+        width: 24% !important;
+        padding: 0 5px 0 0 !important
+    }
+    .middle_align {
+        width: 55% !important
+    }
+    .category li {
+        padding: 3px 0
+    }
+    .right_align .rightItem .title {
+        font-size: 15px
+    }
+    .rightItem small,
+    .right_align #job_building,
+    button.click_on i.bi.bi-caret-down-fill {
+        font-size: 11px
+    }
+    .right_align .jobcard .cLOGO {
+        width: 70px;
+        margin: 2px 2px 0 0;
+        height: 70px
+    }
+    .category li a,
+    .category li a.ForGot,
+    .jobsCat li a,
+    .widget-job-taxonomy ul li a {
+        font-size: 14px
+    }
+    article#job_right_align {
+        padding: 0 !important
+    }
+    .btn-12 span {
+        width: 95px;
+        font-size: 17px;
+        right: 9px
+    }
+    article#job_middle_align {
+        margin: 0 10px
+    }
+    .widget-job-taxonomy ul li a span {
+        font-size: 11px !important
+    }
+    #job_detail_content_box .content_job_text {
+        width: 80%
+    }
+    .column_left {
+        width: 71% !important;
+        margin: 0 13px 0 12px !important
+    }
+    .column_right {
+        padding: 0 6px 0 0 !important
+    }
+    .social_share_job {
+        padding: 7px 0
+    }
+    .recent-job-card {
+        padding: 5px
+    }
+    .recent-job-card .content_job_text {
+        width: 78%
+    }
+    .join_now {
+        height: 175px;
+        width: 175px;
+        padding: 0 10px
+    }
+    .content_job_img,
+    .df-switch {
+        width: 20%
+    }
+    #first_on ul.dropdown-menu,
+    .df-switch:after {
+        right: 0
+    }
+    .free_job_post {
+        left: 64px !important
+    }
+    #twm-title,
+    #twm-title02 {
+        position: absolute;
+        top: 14px;
+        right: 6px
+    }
+    .cvicon,
+    .work_PROcess {
+        right: 60px;
+        top: 13px;
+        width: 61px;
+        height: 66px
+    }
+    .free_btn {
+        padding: 11px 20px !important;
+        left: -1px
+    }
+    .join_now #upload {
+        padding: 11px
+    }
+    .bannerspan {
+        font-size: 45px
+    }
+    .leftMenu ul {
+        width: 43%
+    }
+    .company_logo_share,
+    .right_float {
+        width: 21%
+    }
+    .footer_one_sec {
+        width: 34%;
+        padding: 0 24px 0 0
+    }
+    .footer_two_sec {
+        width: 20%;
+        padding: 0 10px
+    }
+    .footer_three_sec {
+        width: 21%;
+        padding: 0 12px
+    }
+    .footer_four_sec {
+        width: 25%;
+        padding: 0 10px
+    }
+    .grid-banner-container {
+        grid-template-columns: 62% 1fr 0fr !important;
+        grid-template-rows: 136fr 72fr !important
+    }
+    .bottom_navbar2 li.nav-item a.nav-link.click-scroll {
+        padding: 3px 0 5px 55px
+    }
+
+    #hr_video .slider-main,
+    .slick-slider.slider-main .slick-slide img {
+        height: 484px !important
+    }
+    .ARTICLES_LISTS {
+        margin: 12px 0 0 7px !important;
+        padding: 0;
+        width: 99%
+    }
+    .first_column_left {
+        margin: 0 11px 0 0;
+        width: 71%
+    }
+    #hr_video .slider-main{
+        width: 100% !important
+    }
+    .Trending_side_list {
+        width: 48% !important;
+        height: 167px !important;
+    }
+    .right-content-sec {
+        margin:4px 8px 14px 0 !important
+    }
+    .second_column_right {
+        width: 26.5%
+    }
+    .bt_bb_headline_subheadline {
+        line-height: 22px !important;
+        margin-bottom: 7px
+    }
+    .df-switch:after,
+    .df-switch:before,
+    .leftMenu ul li a,
+    ul.nav_list li a {
+        text-shadow: none
+    }
+    .bottom-sub-cat li {
+        width: 48%
+    }
+    .job_detail_content_box {
+        padding: 14px 19px 20px
+    }
+    .bootstrap-select>.dropdown-toggle {
+        width: 82% !important
+    }
+    .footer h4 {
+        width: 38%
+    }
+    h4#company {
+        width: 47% !important
+    }
+    .card_profile .dateTime {
+        display: inline-block
+    }
+    .promo_boxes li {
+        margin-left: 20px
+    }
+    .meta p {
+        line-height: 18px;
+        font-size: 12px !important
+    }
+    .post_c_wrap_second a {
+        font-size: 18px
+    }
+    .ans_btn li {
+        padding-right: 3px
+    }
+    .meta .bottom_para {
+        height: 34px;
+        overflow: hidden
+    }
+    .Sponsored_BTN {
+        left: 333px
+    }
+    .two_section_blog img {
+        height: 361px !important
+    }
+    .post_c_wrap_second {
+        height: 157.5px !important
+    }
+    .autor_Category {
+        position: inherit;
+        padding-top: 0;
+        display: block !important;
+        margin: 0
+    }
+    #carouselExampleInterval12 .nav-tab p {
+        width: 58%
+    }
+    div#carouselExampleInterval11 .btn_type {
+        right: 1px
+    }
+    .controlls {
+        max-width: 22%;
+        padding-top: 33px
+    }
+    #Nav_List,
+    .All_plan_start {
+        padding: 0
+    }
+    .banner_heading {
+        left: 3px !important
+    }
+    .response_block {
+        display: block;
+        padding-top: 3px
+    }
+    .candidates_contant {
+        padding: 0 0 0 6px
+    }
+    .hr_Videos_right h4.heading_vid {
+        top: 148px;
+        width: 90%
+    }
+    .carousel-nav .carousel-cell {
+        width: 174px
+    }
+    .User_Dashboard_section .candidate_profile_img {
+        width: 207px;
+        height: 225px;
+        padding: 15px 7px 0;
+        margin: 0 0 0 4px
+    }
+    .avatar-upload .avatar-preview {
+        width: 187px;
+        height: 187px
+    }
+    .profile_icons {
+        margin: 9px 4px 9px 1px
+    }
+    .candidates_info_section .tabs li a {
+        padding: 9px 12px 9px 11px
+    }
+    section.section_1 .item1 img {
+        height: 419px !important
+    }
+    #carouselExampleInterval12 .right_sec_head {
+        overflow: hidden;
+        height: 23px
+    }
+    div#carouselExampleInterval11 p.right_side {
+        line-height: 17px;
+        overflow: hidden;
+        height: 54px
+    }
+    .grid-banner-container .item3 {
+        width: 100% !important;
+        bottom: 68px
+    }
+    .item3 img {
+        height: 208px
+    }
+    aside.Tab_Content {
+        height: 149px;
+        margin-bottom: 20px;
+    }
+
+    .Trending_side_list img {
+        width: 100%;
+        height: 82%
+    }
+    .item1,
+    .item1 img {
+        height: 420px !important
+    }
+    .item2 {
+        width: 98% !important;
+        height: 205px
+    }
+    .TOP_ARTICLES_LIST .right_sec_head {
+        overflow: hidden;
+        height: 30px
+    }
+    .hr_discussion .right_sec_head {
+        overflow: hidden;
+        height: 25px
+    }
+    .commanTitlesize {
+        font-size: 22px
+    }
+    #hrvidbtn .carousel-control-next,
+    .carousel-control-prev {
+        top: 139px
+    }
+    i.bi.bi-play-fill {
+        top: 6pc;
+        left: 16pc
+    }
+    .bottom_navbar2 #navbarNavDropdown li.nav-item:first-child {
+        width: 11%
+    }
+    .bottom_navbar2 li.nav-item:nth-child(2),
+    .bottom_navbar2 li.nav-item:nth-child(3),
+    .bottom_navbar2 li.nav-item:nth-child(4) {
+        width: 13% !important
+    }
+    .bottom_navbar2 li.nav-item:nth-child(5),
+    .bottom_navbar2 li.nav-item:nth-child(6),
+    .bottom_navbar2 li.nav-item:nth-child(7) {
+        width: 10% !important
+    }
+    .bottom_navbar2 li.nav-item:nth-child(8) {
+        width: 12% !important
+    }
+    .bottom_navbar2 li.nav-item {
+        margin: 0 15px 0 0 !important
+    }
+    .jobsCat li i.bi.bi-caret-right-fill {
+        padding-right: 0;
+        margin: 0
+    }
+    .trendingCon .media {
+        height: 88px
+    }
+    .sign_up button.SubMit_btn {
+        margin: 21px 0 6px 4px;
+        padding: 3px 64px
+    }
+    .SubMit_btn {
+        padding: 16px 62px
+    }
+    .info_ImagE,
+    .right_Img_section {
+        height: 424px
+    }
+    .articleScroll2 .wrapper {
+        width: 290px !important
+    }
+    .module-gallery .slick-slider {
+        height: 359px !important
+    }
+    .videoCon .flexBox {
+        height: 384px
+    }
+    .read_more_click {
+        margin-top: 0 !important;
+        width: 40% !important
+    }
+    .ARTICLES_LISTS .Carditems .title {
+        font-size: 18px;
+        line-height: 21px;
+        height: 41px !important
+    }
+    .ARTICLES_LISTS .Carditems {
+        height: 140px !important
+    }
+    .module-gallery .slider-thumb li {
+        height: 89px !important
+    }
+    #hr_side_slide .slick-slide {
+        margin-bottom: 34px !important;
+        height: 123px !important;
+        margin-top: 3px !important
+    }
+    ul.slider-preview.noPad.noMar.m-0.px-0.py-0.pop_img.slick-initialized.slick-slider.slick-vertical img {
+        height: 330px !important;
+        width: 100%
+    }
+    span.waviy {
+        padding: 10px 0 0
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        padding: 5px 54px
+    }
+    .filter a {
+        padding: 5px 2px
+    }
+    .Exisitng_Customer {
+        width: 66%;
+        margin: 7px 0 17px
+    }
+    .Make_Payment {
+        padding: 7px 156px
+    }
+}
+
+@media screen and (max-width:991px) {
+    .job_post {
+        width: 67%
+    }
+    .Article_slide_section,
+    .HR.DISCUSSION {
+        display: block !important
+    }
+    .Article_slide_section img {
+        height: 480px
+    }
+    article.plan-blk {
+        max-width: 97%
+    }
+    .banner_free_job {
+        padding: 14px 15px
+    }
+    .logIn-sec {
+        max-width: 55% !important
+    }
+    .right_align .jobcard .cLOGO {
+        width: 90px;
+        margin: 4px 2px 0 6px;
+        height: 80px
+    }
+    .banner_heading {
+        left: 3px !important
+    }
+    .hr_discussion {
+        height: 58px
+    }
+    li.job_post_mobile a::after {
+        content: " " !important
+    }
+    .footer_one_sec {
+        width: 45%;
+        padding: 0 17px 0 0
+    }
+    .jobcard {
+        height: 90px
+    }
+    .rightItem {
+        padding-left: 13px
+    }
+    .right_align .rightItem .title {
+        font-size: 18px;
+        padding-top: 2px
+    }
+    .rightItem small,
+    .right_align #job_building {
+        font-size: 14px;
+        bottom: 2px
+    }
+    .rightItem .title,
+    .right_sec_head {
+        font-size: 18px;
+        height: 34px
+    }
+    .footer_two_sec {
+        width: 30%;
+        padding: 0 8px
+    }
+    .footer_three_sec {
+        width: 25%;
+        padding: 0 1px
+    }
+    .footer_four_sec {
+        width: 35%;
+        padding: 0 10px
+    }
+    #first_on a,
+    .leftMenu ul li {
+        line-height: 26px
+    }
+    header.trans_eff a.for_responsive,
+    p.Knowledge,
+    p.Letters {
+        font-weight: var(--font-weight-light);
+        font-family: var(--heading-font-family)
+    }
+    .HR_Forum_banner {
+        padding: 14px 14px 0 !important
+    }
+    .full_box i.bi.bi-list {
+        bottom: 2px !important
+    }
+    .content_job_img {
+        width: 14% !important
+    }
+    #right_jobbo {
+        left: -68px;
+        top: 23px
+    }
+    #free_job_post,
+    #join_now {
+        height: 170px;
+        width: 185px
+    }
+    .cvicon,
+    .work_PROcess {
+        width: 68px;
+        height: 68px
+    }
+    #twm-title02 {
+        top: 14px;
+        right: 16px
+    }
+    .free_job_post h6,
+    .twm-head {
+        font-size: 30px
+    }
+    .twm-title001,
+    .twm-title002 {
+        font-size: 16px
+    }
+    .free_btn,
+    .join_now #upload {
+        padding: 11px 10px !important
+    }
+    .free_btn {
+        left: 0 !important
+    }
+    .join_now #upload {
+        left: -5px
+    }
+    .bannerspan {
+        font-size: 50px
+    }
+    .pricing_body li,
+    .sigup_achor,
+    header .navbar-brand,
+    ul.nav_list li {
+        text-align: center
+    }
+    ul.nav_list li:nth-child(7) {
+        width: 97px
+    }
+    .ARTICLES_LISTS {
+        padding: 0 4px 0 6px !important
+    }
+    .ARTICLES_LISTS h3 {
+        width: 99.3% !important
+    }
+    .image_box img {
+        height: 240px !important
+    }
+    .ARTICLES_LISTS .Carditems .title {
+        height: 39px !important
+    }
+    .read_more_click {
+        width: 21% !important
+    }
+    .border_set,
+    .nav_list .job_post_mobile,
+    .response_block {
+        display: inline-block
+    }
+    .admin_login ul.dropdown-menu li {
+        padding: 6px 0 10px 7px;
+        background: #05053d;
+        border-bottom: 1px solid #fff
+    }
+    #Nav_List li:last-child,
+    .adBanner02.o-hidden.text-center {
+        margin: 0
+    }
+    .RECENT.HR.DISCUSSION .articleBox002,
+    .about-thumb,
+    ul.nav_list li:nth-child(10) {
+        padding-right: 0
+    }
+    #respon_hidd,
+    .HR_forum_left_section,
+    .add_space.\39 70.x.\37 0,
+    .ans_btn,
+    .bottom_sox,
+    .category_xs_noe,
+    .df-switch,
+    .expertScroll.mt30 .carousel ul li:nth-child(3),
+    .expertScroll.mt30 .carousel ul li:nth-child(4),
+    .hide_on_tablet,
+    .info_ImagE,
+    .jobsCat,
+    .loina,
+    .loina-12,
+    .right_Img_section,
+    .second_column_right .newsLtrCon,
+    .sign_up_right_section,
+    .social,
+    .top_article,
+    .website-ads,
+    div#d_none,
+    div#full_biox_02 .adBanner02.o-hidden.text-center.mt30,
+    div#full_biox_02 .add_space,
+    img#adddesigner {
+        display: none
+    }
+    .bk-mask.image_box {
+        max-height: 100%
+    }
+    .show_on_tablet {
+        width: 100%;
+        margin: 7px 0 0 20px;
+        display: block;
+        max-width: 100%
+    }
+    .grid-banner-container {
+        grid-template-rows: 75fr 72fr !important
+    }
+    .bottom_para {
+        margin-bottom: 6px !important
+    }
+    .middle_align {
+        margin: 0 0 0 8px;
+        width: 98% !important
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        margin: 0 !important;
+        width: 100% !important;
+        padding: 0 4px 0 11px
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        width: 100% !important;
+        padding: 0 9px 0 8px !important
+    }
+    .HR_forum_detail_right_section .cLOGO {
+        margin: 5px 4px 0 10px
+    }
+    .Article_column_left,
+    .Article_column_right,
+    .Article_slide_section img,
+    .Make_Payment,
+    .Submit_Article_section_left,
+    .Third_hrvideo_left,
+    .bootstrap-select>.dropdown-toggle,
+    .bottom_navbar2 li.nav-item:first-child,
+    .bottom_navbar2 li.nav-item:nth-child(3),
+    .bottom_navbar2 li.nav-item:nth-child(4),
+    .bottom_navbar2 li.nav-item:nth-child(5),
+    .bottom_navbar2 li.nav-item:nth-child(6),
+    .bottom_navbar2 li.nav-item:nth-child(7),
+    .bottom_navbar2 li.nav-item:nth-child(8),
+    .con_profile_left,
+    .con_profile_right,
+    .first_column_left,
+    .hr_Videos_left,
+    .letter_content_left,
+    .overlay,
+    .second_column_right,
+    .tabs-container,
+    .two_section_blog img,
+    table#two_space_box td {
+        width: 100% !important
+    }
+    .job_post_hide_mobile,
+    .second_column_right .commanTitlesize {
+        display: none !important
+    }
+    .sigup_achor {
+        max-width: 100%;
+        font-size: 15px;
+        padding: 10px 20px 11px;
+        border-radius: 5px
+    }
+    .slick-slider.slider-thumbs {
+        display: block;
+        width: 225px
+    }
+    .hr_vid {
+        margin-right: 13px
+    }
+    #hr_video .slider-main,
+    .slick-slider.slider-main .slick-slide img {
+        height: 460px !important;
+        width: 86.6% !important
+    }
+    #hr_side_slide .slick-slide img {
+        width: 63%
+    }
+    header.trans_eff a.for_responsive {
+        width: 44%;
+        display: inline-block;
+        max-width: 100%;
+        text-align: center;
+        font-size: 15px;
+        padding: 9px 10px 10px;
+        color: #fff;
+        background: #0ea900;
+        margin-right: 0;
+        position: relative;
+        border-radius: 5px
+    }
+    .border_set {
+        width: 1px;
+        background: #e0ffff;
+        height: 23px;
+        top: 10px
+    }
+    #navbarNavDropdown ul.dropdown-menu li a {
+        font-size: 14px;
+        padding: 6px 0 6px 6px
+    }
+    .bottom_navbar2 #navbarNavDropdown li.nav-item ul.dropdown-menu {
+        left: 267px;
+        position: relative;
+        width: 100%;
+        max-width: 100%
+    }
+    .section-padding {
+        padding-top: 80px;
+        padding-bottom: 80px
+    }
+    .articleScroll .media-body p {
+        margin-top: -5px
+    }
+    .articleBox002 small.date_Time {
+        margin: 10px 0 0
+    }
+    .HR.DISCUSSION,
+    .job_detail_content .column_right .newsLtrCon {
+        margin-top: 10px
+    }
+    .custom-btn,
+    .navbar .custom-btn {
+        font-size: var(--copyright-text-font-size);
+        padding: 8px 16px
+    }
+    #first_on,
+    .about-thumb {
+        padding-left: 0
+    }
+    .flexBox .tab-content,
+    .navbar .container,
+    .navbar-toggler .navbar-toggler-icon:after,
+    .navbar-toggler .navbar-toggler-icon:before {
+        background: #fff
+    }
+    header .navbar-brand {
+        padding: 0 !important;
+        margin: 5px 0 0
+    }
+    button.click_on {
+        right: 10px
+    }
+    .right_float a.for_responsive {
+        right: 46px
+    }
+    #carouselExampleInterval12 .media {
+        height: 79px
+    }
+    .click_on:before {
+        color: #000
+    }
+    .full_box {
+        width: 64%;
+        background: #0ea900;
+        margin: 7px 0 0 12px;
+        display: block;
+        border-radius: 5px;
+        height: 43px
+    }
+    p.Knowledge {
+        margin: 0 10px 0 0
+    }
+    .Free_jop_Section,
+    p.Letters {
+        margin: 20px 0 0
+    }
+    #Nav_List li li:last-child,
+    header .navbar_header {
+        padding: 0 !important;
+        margin: 0
+    }
+    .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+        width: 409px !important
+    }
+    .bottom_navbar2 {
+        background: 0 0;
+        height: 0;
+        position: relative;
+        z-index: 1
+    }
+    .menu_icon {
+        height: 5px;
+        margin-left: 7px
+    }
+    .bottom_navbar2 img {
+        width: 27px;
+        margin: 0
+    }
+    .change_width {
+        margin-top: 0 !important;
+        background: #000
+    }
+    .bottom_navbar2 li.nav-item {
+        padding: 8px 0 5px;
+        border-bottom: 1px solid #d3d3d3;
+        margin: 0
+    }
+    .expertCon .commanTitle:after {
+        margin: 10px 0 20px 19px
+    }
+    .flexBox a.tablinks {
+        padding: 0 0 99px
+    }
+    .flexBox .tab-content .tabcontent .yVedio,
+    .videso_slide {
+        height: 407px
+    }
+    .videoCon .nav-tab {
+        padding: 11px 0;
+        margin: 0 0 18px;
+        height: 97px
+    }
+    .navbar-icon {
+        background: var(--secondary-color);
+        color: var(--white-color);
+        width: 44px;
+        height: 44px;
+        line-height: 44px
+    }
+    .navbar .custom-btn {
+        border-color: var(--secondary-color);
+        color: var(--secondary-color)
+    }
+    .bottom_navbar2 li.nav-item a.nav-link.click-scroll {
+        padding: 8px 0 4px 60px !important;
+        color: #000
+    }
+    .bottom_navbar2 #navbarNavDropdown li.nav-item:nth-child(2) {
+        width: 99% !important
+    }
+    .navbar-nav .nav-link {
+        color: var(--p-color)
+    }
+    .hero {
+        padding-top: 200px;
+        padding-bottom: 400px
+    }
+    .hero-text {
+        top: 0;
+        margin-bottom: 120px
+    }
+    .about-numbers {
+        font-size: 42px
+    }
+    .services-thumb-up {
+        bottom: 0;
+        margin-bottom: 32px
+    }
+    .services-thumb {
+        margin-bottom: 32px;
+        padding-bottom: 270px
+    }
+    .services-icon-wrap {
+        width: 45%;
+        height: 60%
+    }
+    .contact-info {
+        border-radius: 0 0 var(--border-radius-small) var(--border-radius-small);
+        padding: 40px 30px
+    }
+    .contact-info-border-start {
+        border-right: 0;
+        border-bottom: 1px solid var(--border-color);
+        border-radius: var(--border-radius-small) var(--border-radius-small) 0 0
+    }
+    .social-btn i.bi.bi {
+        font-size: 18px;
+        float: right;
+        color: #fff;
+        display: block;
+        margin-right: 0;
+        margin-top: 1px
+    }
+    #article-detail-img {
+        width: 100%
+    }
+    .social-btn {
+        left: -95px
+    }
+    .second_column_right {
+        padding: 0 13px 0 11px;
+        position: relative
+    }
+    .RECENT.HR.DISCUSSION .rightItem {
+        padding: 4px 8px 0 5px !important
+    }
+    .job_detail_content .column_right {
+        width: 100%;
+        padding: 1px 0 0
+    }
+    .job_detail_content_box {
+        padding: 15px 16px 32px;
+        height: 16%
+    }
+    .videso_slide li {
+        padding-bottom: 72px
+    }
+    .videso_slide li img {
+        margin-top: -21px
+    }
+    .full_biox {
+        width: 50%;
+        margin-left: 0;
+        padding: 0
+    }
+    .newsLtrCon.category_newsLtrCon button.btn {
+        width: 173px
+    }
+    .BASIC_PLAN_section,
+    .BUSINESS_PLAN_section,
+    .FREE_PLAN_section,
+    .PREMIUM_PLAN_section {
+        width: 47%;
+        margin: 0 8px
+    }
+    .FREE_PLAN_section {
+        margin: 0 6px 100px 14px
+    }
+    .BUSINESS_up {
+        top: -38px
+    }
+    .BASIC_PLAN_section_inner,
+    .BUSINESS_PLAN_section_inner,
+    .FREE_PLAN_section_inner {
+        margin-bottom: 60px
+    }
+    #Top_Discuss {
+        width: 100%;
+        display: block
+    }
+    .blog_top {
+        padding: 20px 0 211px
+    }
+    .post-c-wrap {
+        left: 19px;
+        top: 250px
+    }
+    .block_one {
+        padding-bottom: 15px
+    }
+    .add_job_section {
+        margin: 0 0 0 9px
+    }
+    .post_c_wrap_second .meta i.bi.bi-person-circle {
+        top: 42px
+    }
+    .Dashboard_right_section,
+    .small_content {
+        width: 66%
+    }
+    .active-tabs {
+        width: 100%;
+        margin-bottom: 731px
+    }
+    .btn {
+        padding: 15px 93px 15px 90px
+    }
+    .small_content a {
+        font-size: 17px
+    }
+    .small_article_img {
+        width: 33%;
+        height: 158px
+    }
+    .small_article_img img {
+        height: 154px
+    }
+    .two_section_blog {
+        padding-bottom: 21px
+    }
+    .Dashboard_left_section {
+        width: 34%
+    }
+    .fliter_section i.bi.bi-search {
+        left: 165px
+    }
+    .info_dash span {
+        width: 97%;
+        padding: 0
+    }
+    .job_show_sec {
+        width: 21%
+    }
+    .employer-wrap-thumb,
+    .employer-wrap-thumb img {
+        width: 130px;
+        height: 130px
+    }
+    .pagination_sec select {
+        margin: 0 1px 0 0;
+        width: 75% !important
+    }
+    .job_view_content ul li {
+        margin-left: 0;
+        padding: 0 13px 0 0
+    }
+    .employer-wrap-thumb {
+        top: 18px
+    }
+    .title_employ h1 {
+        left: -27px;
+        top: 71px
+    }
+    .title_employ span {
+        left: 4px !important
+    }
+    .info_span {
+        margin: 5px 0 9px
+    }
+    #modern-boxe {
+        margin-bottom: 52px
+    }
+    .modern-boxe {
+        margin-bottom: 44px
+    }
+    .BTN_Sub {
+        padding: 25px 47px 25px 44px
+    }
+    .buy_btn {
+        padding: 25px 50px 25px 63px
+    }
+    .BUSINESS_up {
+        left: 80px
+    }
+    ul.fxt-socials li a {
+        width: 260px
+    }
+    .middle_article {
+        max-width: 100%;
+        padding: 0 0 0 7px
+    }
+    .sigup_achor:hover {
+        background: 0 0
+    }
+    .bottom_navbar2 div#navbarNavDropdown {
+        position: absolute;
+        top: -29px;
+        left: 18px;
+        background: #fff;
+        width: 27%;
+        max-width: 100%
+    }
+    .sign_up button.SubMit_btn {
+        padding: 8px 91px
+    }
+    .Submit_btn {
+        padding: 4px 93px 15px 90px !important
+    }
+    .bk-mask img {
+        height: 342px;
+        width: 100%
+    }
+    .card-job,
+    .expertCon span,
+    i.bi.bi-caret-down-fill {
+        font-size: 14px !important
+    }
+    #carouselExampleInterval12 .right_sec_head {
+        overflow: hidden;
+        height: 24px
+    }
+    .recenthrarticle {
+        color: #fff;
+        top: 185px;
+        position: absolute;
+        font-size: 25px
+    }
+    .recent_article_icon {
+        margin-top: -39px;
+        font-size: 15px !important
+    }
+    .articleBox001 img {
+        height: 341px;
+        width: 100%
+    }
+    .letter_content_right {
+        width: 100%;
+        margin-top: 10px
+    }
+    .Third_hrvideo_right {
+        float: right;
+        width: 100%
+    }
+    .carousel-nav .carousel-cell {
+        width: 169px
+    }
+    .hr_Videos_right {
+        width: 100%;
+        margin-top: 11px
+    }
+    .hr_Videos_right h4.heading_vid {
+        width: 60%
+    }
+    .four_videos_section .youtube_icon_sec {
+        width: 251px;
+        top: 100px;
+        left: 222px
+    }
+    .first_videos_section h4 {
+        top: 215px
+    }
+    #right_vid_small_t {
+        top: 143px
+    }
+    .hr_Videos_right .youtube_icon_sec {
+        top: 37px;
+        left: 93px;
+        width: 145px
+    }
+    .job_detail_content .column_left {
+        width: 100%;
+        margin: 0 5px 0 2px;
+        padding: 1px 0 0
+    }
+    .top_navbar2 ul li:nth-child(7)>div {
+        right: -5px
+    }
+    .top_navbar2 ul li:nth-child(8)>div {
+        right: -2px
+    }
+    div#carouselExampleInterval11 p.right_side {
+        line-height: 23px;
+        height: 75px
+    }
+    .top_navbar2 ul li>div {
+        position: absolute;
+        top: 9px;
+        height: 13px;
+        right: 0
+    }
+    .top_navbar2 ul li:first-child>div {
+        right: -10px
+    }
+    .hrdiscus.col-md-6,
+    .latestJobsec {
+        width: 48% !important
+    }
+    i.bi.bi-play-fill {
+        top: 13pc;
+        left: 27pc
+    }
+    #hrvidbtn .carousel-control-next,
+    .carousel-control-prev {
+        top: 170px
+    }
+    
+    .HR_forum_category_responsive,
+    div#respon_hidd_bottom {
+        display: block
+    }
+    #Nav_List li a {
+        padding: 0;
+        font-size: 15px
+    }
+    #first_on ul.dropdown-menu {
+        right: -1px;
+        min-width: 159px
+    }
+    .admin_login {
+        margin: 0 0 0 47px;
+        background: #05053d;
+        width: 158px;
+        height: 45px
+    }
+    .Trending_side_list {
+        margin-bottom: 10px;
+        width: 48% !important;
+        height: 180px !important;
+    }
+    .expertCon {
+        margin-bottom: 0px
+    }
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        margin: 0 15px;
+    }
+
+    #first_on a {
+        color: #fff;
+        padding: 0 0 5px 52px
+    }
+    .RECENT.HR.DISCUSSION .articleBox002,
+    .line_top p {
+        left: 348px
+    }
+    .city_key,
+    .country_flag,
+    .job_key {
+        width: 32%;
+        margin: 4px 8px 0 0
+    }
+    .left_align.category_xs_noe_respon {
+        display: block;
+        width: 100%
+    }
+    .middleSection1 {
+        padding: 3px 1px 0 6px !important
+    }
+    .controlls {
+        padding-top: 33px
+    }
+    .videoCon .flexBox {
+        margin-bottom: 28px
+    }
+ 
+    .add_space img,
+    .newsLtrCon .g-recaptcha iframe {
+        max-width: 100%
+    }
+    .left_logo_side {
+        width: 23%;
+        margin-left: 0;
+        padding: 0
+    }
+    .con_profile_img_border {
+        height: 186px
+    }
+    #fill_loc,
+    .Popular_Searches,
+    .autor_Category,
+    .border_set,
+    .info_dash span {
+        position: absolute
+    }
+    .resume_writing_banner_sec section .item {
+        height: 40vh
+    }
+    .post_c_wrap_second .hr-article_more_btn {
+        margin-top: 3px !important;
+        font-size: 18px !important
+    }
+    .post_c_wrap_second {
+        height: 194.5px !important
+    }
+    .post_c_wrap_second a {
+        font-size: 22px !important;
+        padding-bottom: 6px
+    }
+    .two_section_blog img {
+        height: 415px !important
+    }
+    .meta .bottom_para {
+        height: 40px;
+        overflow: hidden;
+        font-size: 16px !important
+    }
+    .autor_Category {
+        padding-top: 0;
+        display: inline !important;
+        right: 19px
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        padding: 5px 30px
+    }
+    .DISCUSSION_Title {
+        padding: 16px 10px 10px 0
+    }
+    .Order_Summary {
+        margin-top: 26px
+    }
+    h1.sec-title {
+        padding: 6px 18px 14px
+    }
+    .side_forum_s {
+        padding: 48px 0 0
+    }
+    .block_one .elementskit_metalists {
+        top: 296px;
+        left: -6px
+    }
+    .bottom_article {
+        max-width: 44%
+    }
+    .How_it_Works_start {
+        margin-top: 30px
+    }
+    .filter a {
+        padding: 5px 31px
+    }
+    ul.nav_list {
+        display: flex;
+        width: 100%;
+        max-width: 100%
+    }
+    p.Knowledge,
+    p.Letters {
+        display: inline-block;
+        color: #fff;
+        font-size: 15px;
+        position: absolute
+    }
+    a#Clear_Btn {
+        top: 63px;
+        right: 17px
+    }
+    .selectSection button {
+        padding: 0 0 8px;
+        width: 201px;
+        margin: 0 0 0 9px
+    }
+    .right_planw {
+        width: 100%;
+        padding-left: 16px
+    }
+    .manage_sec,
+    .projects .col-lg-4:last-child,
+    .services .col-lg-10 .row .col-lg-6:last-child {
+        margin-bottom: 0
+    }
+    .Carditems p {
+        font-size: 15px
+    }
+    .employer_find ul li {
+        margin: 0 1px
+    }
+    #right_jobbox {
+        left: 42px !important;
+        top: 35px !important
+    }
+    #twm-title {
+        right: 12px
+    }
+    #searchbar_inner #btn-12 span {
+        padding: 6px 8px;
+        line-height: 26px;
+        height: 37px;
+        position: absolute;
+        right: 14px;
+        top: 56px;
+        width: 251px
+    }
+    .Popular_Searches {
+        padding: 0 0 0 17px;
+        top: -40px;
+        left: 36px;
+        width: auto
+    }
+    .Popular_Searches p span a {
+        font-size: 13px;
+        color: #fff;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+    }
+    .Popular_Searches h6 {
+        color: #ff0 !important
+    }
+    .leftMenu ul {
+        width: 1%;
+        text-align: left;
+        margin: 0
+    }
+    .leftMenu {
+        width: 96%
+    }
+    .leftMenu ul li>div {
+        margin-right: 25px
+    }
+    .leftMenu ul li a {
+        padding: 9px 30px 0 7px;
+        font-size: 15px
+    }
+    .job_detail_content_box h3 a {
+        width: 578px;
+        display: block
+    }
+    ul.nav_list li a::after {
+        content: "|";
+        position: relative;
+        left: 15px;
+        padding: 0
+    }
+    .Preview_job_posting_content div#bottom_btn .job_detail_btn {
+        margin: 17px 156px 23px 0;
+        padding: 14px 40px
+    }
+    .recent-job-card {
+        padding: 10px 15px 15px
+    }
+    .searchbar_inner {
+        padding: 3px 16px 9px 31px;
+        bottom: 59px;
+        height: 103px
+    }
+    a.Add_User {
+        margin-left: 15px
+    }
+    #fill_loc {
+        top: 63px;
+        right: 380px
+    }
+    .job_Responses {
+        left: 292px
+    }
+    #local {
+        padding: 0 30px 0 5px
+    }
+    input#Approved_Search {
+        padding: 8px 285px 8px 6px
+    }
+    .hidden_desktop span.by_Category {
+        padding: 18px 557px 18px 16px
+    }
+    #job_banner_section:before {
+        height: 98%
+    }
+    i#Approved_User {
+        left: 314px
+    }
+    .Approved_names {
+        width: 240px
+    }
+    .All_User_sec li {
+        padding: 0 10px 0 11px
+    }
+    ul.navbar-nav.navbar-nav {
+        margin-top: 0
+    }
+    .left_align {
+        width: 17%
+    }
+    ul.nav_list li:nth-child(8) {
+        width: 99px
+    }
+    #job_detail_content_box .content_job_img {
+        width: 68% !important
+    }
+    .job_Keywords ul li {
+        padding: 4px 15px
+    }
+    .job_detail_icons {
+        float: right
+    }
+    #by_job_taxonomy,
+    #job_taxonomy {
+        padding: 20px 0 15px 14px
+    }
+    .right_align {
+        width: 100% !important;
+        padding: 17px 8px 0 !important
+    }
+    .typing_bed {
+        width: 310px
+    }
+    .column_left {
+        width: 98% !important;
+        margin: 0 8px 0 9px !important
+    }
+    .column_right {
+        width: 100% !important;
+        padding: 15px 10px 0 8px !important
+    }
+    .column_right .jobcard {
+        height: 90px;
+        padding: 8px 0 0 8px
+    }
+    .Submit_Article_section_right {
+        width: 100%;
+        padding: 0 13px 0 12px
+    }
+    .Sponsored_BTN {
+        left: 399px
+    }
+    .promo_boxes02 li {
+        right: 70px
+    }
+    .Paid {
+        left: 654px !important
+    }
+    .bottom_navbar2 li.nav-item:nth-child(2) {
+        width: 99%
+    }
+    .item3 {
+        top: -5px
+    }
+    .expertCon .owl-prev {
+        top: 40%
+    }
+    .expertCon .owl-next {
+        top: 38%
+    }
+    .right_float {
+        left: -11px
+    }
+    .expertScroll.mt30 .carousel ul li {
+        width: 318px
+    }
+    div#carouselExampleInterval11 .btn_type a.Read.More {
+        padding: 0 0 0 33px
+    }
+    .articleBox002 .media,
+    .commanTitle:after {
+        margin: 5px 0 20px
+    }
+    .add_space {
+        margin: 11px 0 0
+    }
+    .grid-banner-container .item1 {
+        height: 427px;
+        width: 100%
+    }
+    aside.item::before {
+        left: 101px
+    }
+    section.section_1 .item1 img {
+        height: 376px
+    }
+    .top_navbar2 {
+        height: 28px
+    }
+    div#carouselExampleInterval11 a.tablinks {
+        margin-bottom: 25px;
+        height: 94px
+    }
+    div#carouselExampleInterval12 .overlay {
+        bottom: -16px
+    }
+    .trendingCon,
+    .videoCon {
+        margin: 30px 0 0
+    }
+    .jobsCat {
+        width: 35%;
+        float: right;
+        margin: 0 !important
+    }
+    i.bi.bi-search {
+        left: 49px
+    }
+    .search-field {
+        padding: 0 82px 0 40px;
+        margin: 0 -10px
+    }
+    .overlay h3 {
+        padding: 6px 14px;
+        font-size: 20px
+    }
+    .nav-tab a {
+        padding: 0 0 1px 8px
+    }
+    .RECENT.HR.DISCUSSION .articleBox002 .media-body {
+        display: table-cell;
+        vertical-align: top
+    }
+    .tabsCons {
+        margin: 30px 0
+    }
+    .second_column_right .newsLtrCon {
+        width: 55%;
+        float: left
+    }
+    .g-recaptcha {
+        height: 84px
+    }
+    #Login_SectioN {
+        max-width: 60% !important
+    }
+    ul.nav_list li:after {
+        padding: 0 0 0 3px
+    }
+    .projects-thumb {
+        margin-top: 0;
+        margin-bottom: 32px
+    }
+    ul.nav_list li {
+        padding: 3px 0 1px;
+        width: 2%;
+        margin-right: 0;
+        position: relative;
+        max-width: 100%
+    }
+    ul.nav_list li:nth-child(10) {
+        width: 62px;
+        margin: 0
+    }
+}
+
+@media only screen and (max-width:790px) {
+    .sigup_achor {
+        margin-right: -6px !important
+    }
+    .show_on_tablet {
+        margin: 3px 0 0 16px
+    }
+    .add_responsiv_class {
+        width: 23%;
+        margin-left: 0;
+        padding: 0 !important
+    }
+    ul.nav_list li {
+        padding: 8px 28px 0 0 !important
+    }
+    #Nav_List li:last-child {
+        padding: 4px 15px 4px 16px !important
+    }
+    #hr_video .slider-main,
+    .slick-slider.slider-main .slick-slide img {
+        height: 438px !important
+    }
+    #Grid_Banner .item1,
+    #carouselExampleInterval12 .nav-tab,
+    .grid-banner-container,
+    .item2,
+    .item3,
+    .item4 {
+        display: none
+    }
+    #banner_heading {
+        width: 68%;
+        left: 2%
+    }
+    .read_more_click {
+        width: 28% !important
+    }
+    .expertCon {
+        margin-top: 1pc !important
+    }
+    #hrvidbtn .carousel-control-next,
+    .carousel-control-prev {
+        top: 144px
+    }
+    i.bi.bi-play-fill {
+        top: 12pc;
+        left: 22pc
+    }
+    div#carouselExampleInterval11 .tab-content p {
+        height: 100px
+    }
+    .HR.DISCUSSION {
+        margin-top: 14px
+    }
+    .Trending_side_list {
+        margin-bottom: 17px
+    }
+    .jobsCat {
+        width: 43%
+    }
+    #carouselExampleInterval12 .tab-content {
+        width: 100% !important;
+        height: 100% !important;
+        margin-bottom: 20px !important
+    }
+    #Grid_Banner {
+        display: inline-block
+    }
+    .grid-banner-container .item1 {
+        display: block
+    }
+}
+
+@media screen and (max-width:880px) {
+    #Login_SectioN {
+        max-width: 70% !important
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 10px 0 13px
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        padding: 0 9px 0 12px !important
+    }
+    #right_jobbox {
+        left: 11pc !important;
+        top: 35px !important
+    }
+    #free_job_post,
+    #join_now {
+        height: 174px;
+        width: 211px
+    }
+    #twm-title {
+        right: 12px
+    }
+    #twm-title02 {
+        right: 20px
+    }
+    .searchbar_inner {
+        width: 89%
+    }
+    .col-sm-12,
+    .leftMenu ul {
+        width: 100%
+    }
+    .free_job_post {
+        left: 93px !important
+    }
+    .free_btn,
+    .join_now #upload {
+        padding: 11px 28px !important
+    }
+    .col-sm-12 {
+        flex: 0 0 auto
+    }
+    .d-sm-none,
+    .item2,
+    .item3,
+    .item4 {
+        display: none !important
+    }
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto
+    }
+    .breadcrumbs {
+        padding: 0 !important
+    }
+    ul.nav_list li {
+        padding: 8px 42px 0 0;
+        margin-right: 14px;
+        width: 7%
+    }
+    ul.nav_list li a::after {
+        left: 28px !important;
+        bottom: 9px
+    }
+    #Nav_List li a {
+        font-size: 16px
+    }
+    .banner_heading,
+    .bannerspan {
+        font-size: 40px !important
+    }
+    .top_navbar2 ul li:first-child>div {
+        right: -15px
+    }
+    .top_navbar2 ul li>div {
+        position: absolute;
+        top: 12px;
+        height: 27px;
+        right: -5px
+    }
+    .top_navbar2 ul li:nth-child(7)>div {
+        right: -11px
+    }
+    .top_navbar2 ul li:nth-child(8)>div {
+        right: -1px
+    }
+    li.job_post_mobile a::after {
+        content: "" !important
+    }
+    li.hide_moblie.hide_Services {
+        display: none
+    }
+    #Nav_List li:last-child {
+        padding: 4px 22px 4px 18px;
+        margin-left: 18px
+    }
+    .full_biox {
+        width: 52%
+    }
+    .top_navbar2 {
+        height: 55px
+    }
+    .rightItem {
+        margin-left: 20px
+    }
+    #Letter_block_mobile,
+    #Resume_block_mobile {
+        display: inline-block !important;
+        margin-right: 7px;
+        width: 4%
+    }
+    .show_on_tablet {
+        margin: 7px 0 0 !important
+    }
+    header.trans_eff a.for_responsive {
+        width: 43% !important;
+        padding: 10px !important
+    }
+    .sigup_achor {
+        margin-right: 0 !important;
+        padding: 10px 15px 11px !important
+    }
+    .full_box {
+        width: 73% !important
+    }
+    .grid-banner-container {
+        grid-template-columns: 99% 0fr 0fr !important
+    }
+    .item1,
+    .item1 img {
+        height: 465px !important
+    }
+    .expertCon {
+        padding: 14px 0 !important
+    }
+}
+
+@media screen and (max-width:480px) {
+    .bottom_navbar2 #navbarNavDropdown li.nav-item a.nav-link.click-scroll {
+        padding: 6px 0 7px 36px !important
+    }
+    #jobs_column_right,
+    #twm-media,
+    .add_job_section,
+    .grid-banner-container,
+    .hr_video,
+    .info_ImagE,
+    .right_Img_section,
+    .top_article,
+    .top_menu,
+    .twm-media,
+    .videoCon,
+    .videso_slide,
+    .website-ads,
+    div#full_biox_02,
+    div#join_now {
+        display: none
+    }
+    #banner_free_job_res,
+    .bk-mask img,
+    .post_c_wrap_second {
+        height: 100%
+    }
+    .middle_align.category_style article.d-flex {
+        display: block !important;
+    }
+    .side_img_secbg {
+        display: none;
+    }
+    li.breadcrumb-item a {
+        line-height: 15px;
+        font-size: 11px
+    }
+    .breadcrumb-item.active {
+        font-size: 10px
+    }
+    .Regsiter_from_sec,
+    .container-fluid,
+    .expertCon {
+        padding: 0
+    }
+    .navbar-expand-lg .collapse ul ul>li:hover>a {
+        color: #000 !important
+    }
+    .left_tabl_cont,
+    .right_tabl_cont,
+    .second_column_right .newsLtrCon,
+    div#carouselExampleInterval12 .media-left {
+        width: 100%
+    }
+    #respon_hidd_bottom,
+    .category_xs_Show,
+    .footer-sec,
+    .job_post_mobile,
+    .response_block,
+    .response_contributer {
+        display: block !important
+    }
+    .contributer_info {
+        height: auto
+    }
+    .banner_About_US,
+    .banner_free_job:before,
+    .second_US_img {
+        height: 89% !important
+    }
+    .right-content-sec {
+        margin: 0 8px 0 7px !important
+    }
+    .Submit_btn {
+        height: 55px !important;
+        padding: 4px 6px !important
+    }
+    .hr_recent_tabs .media-body {
+        margin: 11px 0 0 9px
+    }
+    .Carditems .title {
+        font-size: 25px
+    }
+    .bootstrap-select.btn-group .dropdown-toggle .filter-option {
+        padding-left: 1px
+    }
+    .bootstrap-select.btn-group .dropdown-menu {
+        width: 100%;
+        left: 0
+    }
+    .dropdown-menu.open {
+        min-width: 98% !important
+    }
+    .bootstrap-select {
+        width: 100% !important;
+        margin-top: 2px
+    }
+    .country_flag {
+        padding: 0;
+        width: 99%
+    }
+    .bootstrap-select>.dropdown-toggle {
+        width: 99% !important;
+        padding: 8px 2px 0 26px !important
+    }
+    #slideset2 span,
+    .meta p {
+        line-height: 22px
+    }
+    .meta p {
+        font-size: 15px !important
+    }
+    .post_c_wrap_second {
+        padding: 8px
+    }
+    .right_sec_head {
+        margin: 7px 0 0;
+        font-size: 17px
+    }
+    .dropdown-toggle::after {
+        font-size: 16px !important
+    }
+    .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+        width: 419px !important
+    }
+    h4#company {
+        width: 17% !important
+    }
+    .footer h4 {
+        width: 14%
+    }
+    #carouselExampleInterval11 .nav-tab,
+    .articleScroll .media-body p {
+        margin-top: 9px
+    }
+    .add_space,
+    .newsLtrCon.category_newsLtrCon,
+    header.trans_eff .row {
+        margin: 0
+    }
+    .TOP_ARTICLES_LIST p {
+        width: 198px
+    }
+    #first .right_input_box>select,
+    .left_input_box,
+    .left_input_box .main-password,
+    .left_input_box input[type=text],
+    .module-gallery .slider-thumb li .slick-initialized .slick-slide,
+    .nav-tab,
+    .right_input_box>select,
+    .slick-slide img,
+    .sub_category_first_column,
+    .tab-content,
+    form#signUpForm .right_input_box,
+    input.inpt_mobile,
+    input[type=password] {
+        width: 100% !important
+    }
+    .con_profile_img_border {
+        height: 201px;
+        margin-left: 58px
+    }
+    .con_profile_right {
+        padding: 10px 10px 0
+    }
+    .con_profile_img ul {
+        margin: 14px 0 0 80px
+    }
+    section .item .cover {
+        padding: 20px 5px
+    }
+    section .item .cover .header-content {
+        padding: 42px 0 39px 35px
+    }
+    section .item .cover .header-content .line {
+        width: 47%;
+        height: 70%;
+        top: 33px
+    }
+    section .item .cover .header-content .top_head_rig {
+        font-size: 19px
+    }
+    .post_c_wrap_second a,
+    section .item .cover .header-content .heading_startup {
+        font-size: 21px
+    }
+    section .item .cover .header-content h4 {
+        line-height: 25px;
+        font-size: 19px
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        margin-bottom: 7px
+    }
+    #pagination_response,
+    .Submission_head {
+        width: 90%
+    }
+    .Article_Preview {
+        margin-top: 39px
+    }
+    .contributer_profile {
+        height: 248px;
+        width: 344px;
+        padding: 1px 0 0 6px
+    }
+    .contributer_profile .avatar-upload {
+        margin: 11px 0 0 9px;
+        height: 215px;
+        width: 311px
+    }
+    .Add_img {
+        left: 68px;
+        top: -42px
+    }
+    input.upon-raidus {
+        width: 85%;
+        top: 190px;
+        left: 29px
+    }
+    .top_input_sec {
+        margin: 15px 0 0
+    }
+    .right_input_box {
+        margin: 0 !important;
+        width: 100% !important
+    }
+    .click_ans {
+        margin-left: 14px;
+        display: inline-block
+    }
+    .Regsiter_from_sec iframe {
+        margin: 15px 0 0 -14px
+    }
+    .bottom_article,
+    .middle_article {
+        max-width: 100%;
+        padding: 0 11px
+    }
+    .two_section_blog .info a {
+        font-size: 27px
+    }
+    i.bi.bi-slash-lg {
+        color: #fff;
+        display: inline-block;
+        transform: rotate(156deg)
+    }
+    .add_responsiv_class {
+        padding: 0;
+        width: 24%
+    }
+    .title_employ h1 {
+        left: -10px
+    }
+    .title_employ span {
+        left: 22px
+    }
+    .employer-wrap-thumb {
+        left: 121px
+    }
+    .employer-wrap-thumb img {
+        width: 204px
+    }
+    .tooltip:hover span {
+        left: -10px;
+        top: 14px
+    }
+    #tooltipresponse {
+        right: 20px
+    }
+    .tooltip span {
+        font-size: 10px;
+        width: 38px;
+        top: 7px;
+        left: -3px
+    }
+    .employer_find ul li {
+        margin: 0 10px
+    }
+    .job_show_sec {
+        width: 39%
+    }
+    .top_post_btn button {
+        padding: 4px 34px 4px 35px;
+        margin-right: 89px;
+        right: -86px;
+        top: 56px;
+        display: block
+    }
+    .job_view_content ul li {
+        padding-right: 27px
+    }
+    .DISCUSSION_Title p,
+    .newsLtrCon {
+        width: 264px
+    }
+    .HR_Forum_banner,
+    .banner_free_job,
+    .grid-banner-container .item1 {
+        height: 268px
+    }
+    #slideset2 p {
+        line-height: 40px
+    }
+    #slideset2 {
+        height: 9em;
+        width: 100%;
+        max-width: 100%
+    }
+    .side_search_hr {
+        width: 97%
+    }
+    ul.share_btn {
+        margin: 11px 53px 0 0 !important
+    }
+    .job_plan_social li {
+        padding-right: 7px;
+        display: inline-block !important
+    }
+    .job_plan_social {
+        margin-top: 0 !important
+    }
+    .job_plan_social ul.share_btn {
+        margin: 0 53px 0 0 !important
+    }
+    .make_payment_inner .Make_Payment {
+        padding: 10px 129px 11px 152px;
+        margin: 19px 0 0
+    }
+    .two_section_blog img {
+        height: 100% !important
+    }
+    .top_navbar2 {
+        border-top: 1px solid #0ea801
+    }
+    div#carouselExampleInterval11 .btn_type {
+        width: 24%
+    }
+    #hrvidbtn .carousel-control-next,
+    .carousel-control-prev {
+        top: 78px
+    }
+    .job_checkout span {
+        padding: 19px 0 0 5px
+    }
+    .bottom_category_option h3 {
+        margin: 26px 0 35px
+    }
+    .How_it_work {
+        top: 73px;
+        left: 7px
+    }
+    .selectSection {
+        margin-bottom: 0
+    }
+    .bottom_category_option>div>h4>a {
+        padding: 11px 12px 0 0;
+        font-size: 18px
+    }
+    .column_left iframe {
+        border: 0;
+        max-width: 100%
+    }
+    .expertScroll.mt30 .carousel ul li {
+        width: 312px;
+        margin-left: 15px
+    }
+    input#Approved_Search {
+        padding: 8px 186px 8px 6px;
+        margin-bottom: 20px
+    }
+    header#trans_eff .full_biox {
+        background: #fff
+    }
+    .Exisitng_Customer {
+        width: 79%
+    }
+    .pay_sec {
+        max-width: 31%
+    }
+    .slide .info {
+        top: 100px;
+        left: 10px
+    }
+    .custom-btn,
+    .navbar .custom-btn {
+        font-size: 13px;
+        padding: 6px 12px
+    }
+    #job_Responses {
+        left: 10px
+    }
+    .navbar-icon {
+        font-size: var(--copyright-font-size);
+        width: 35.5px;
+        height: 35.5px;
+        line-height: 35.5px
+    }
+    .hero-image-wrap {
+        width: 300px;
+        height: 300px
+    }
+    .admin_login a .caret {
+        padding-left: 0
+    }
+    .hero-image {
+        min-width: inherit
+    }
+    .buy_btn {
+        padding: 25px 61px 25px 84px
+    }
+    .job_detail_content .column_left {
+        width: 94%;
+        margin: 0 0 0 12px;
+        padding: 0
+    }
+    .responsiveTbl i.bi.bi-check {
+        padding-left: 28px;
+        padding-right: 16px
+    }
+    .flexBox .tab-content .tabcontent .yVedio {
+        height: 234px
+    }
+    .flexBox a.tablinks {
+        padding: 4px 0 46px
+    }
+    .All_User_sec ul {
+        float: right
+    }
+    .All_User_sec li {
+        width: 59px;
+        padding: 0 0 0 6px;
+        font-size: 14px
+    }
+    .All_User_sec strong,
+    ul.dropdown-menu li a {
+        font-size: 11px
+    }
+    .flexBox .tab-content {
+        width: 100%;
+        height: 253px
+    }
+    #expertCon_res .owl-stage-outer.owl-height {
+        height: 250px
+    }
+    .expertCon .item {
+        padding: 16px 0 25px
+    }
+    .owl-prev {
+        left: 2%
+    }
+    .expertCon .owl-next {
+        right: 2%;
+        top: 40%
+    }
+    .Branding {
+        font-size: 20px
+    }
+    .Publish_sub {
+        width: 209px;
+        font-size: 18px;
+        line-height: 29px
+    }
+    .typing_bed {
+        left: 121px;
+        top: 129px;
+        width: 197px;
+        font-size: 18px
+    }
+    .bottom_navbar2 li.nav-item a.nav-link.click-scroll {
+        font-size: 14px;
+        background-size: contain;
+        padding: 5px 9px 5px 40px !important
+    }
+    button.click_on i.bi.bi-caret-down-fill {
+        font-size: 12px !important
+    }
+    header.trans_eff button.navbar-toggler {
+        background: 0 0;
+        padding: 6px 7px 5px 3px
+    }
+    .bottom_navbar2 li.nav-item {
+        height: 38px;
+        padding: 3px 0 5px
+    }
+    .bottom_navbar2 div#navbarNavDropdown li.nav-item {
+        height: 38px;
+        padding: 3px 0 5px;
+        width: 100% !important
+    }
+    .bottom_navbar2 li.nav-item:nth-child(4) a.nav-link.click-scroll {
+        line-height: 18px
+    }
+    .navbar-toggler-icon i.bi.bi-list {
+        font-size: 28px !important
+    }
+    .articleBox003 {
+        margin: 8px 0 0;
+        display: none
+    }
+    .border_set {
+        height: 20px;
+        top: 9px;
+        left: 41px
+    }
+    .aside__area>div p,
+    .content_job h3 a {
+        font-size: 22px
+    }
+    .info strong {
+        font-size: 15px
+    }
+    .inner_list {
+        padding: 0 0 15px;
+        margin-top: 4px
+    }
+    #fill_loc {
+        top: 109px;
+        right: 13px
+    }
+    .sing_in_checked {
+        padding: 0 0 0 15px !important;
+        margin: 16px 0 0
+    }
+    button.ForGot {
+        margin-right: 19px !important
+    }
+    form#signUpForm .General_text {
+        margin: 2px 0 0 2px
+    }
+    .Article_column_right .newsLtrCon.category_newsLtrCon,
+    .content_job_text h3 {
+        width: 96%
+    }
+    .top_navbar2 .container {
+        padding-right: var(--bs-gutter-x, 0);
+        padding-left: var(--bs-gutter-x, 0)
+    }
+    .left_align.category_xs_noe_respon {
+        width: 97%;
+        margin-top: 25px
+    }
+    .content_job_text .top_Heading43 {
+        width: 199px
+    }
+    ul.nav_list li:after {
+        position: absolute;
+        bottom: 11px;
+        height: 18px;
+        padding: 0 3px 0 4px
+    }
+    ul.nav_list li:first-child div {
+        left: 58px
+    }
+    .articleScroll .media-left img {
+        margin: 6px 0 0 7px
+    }
+    .hidden_desktop span.by_Category {
+        padding: 18px 195px 18px 16px
+    }
+    .Preview_job_posting_content div#bottom_btn .job_detail_btn {
+        margin: 17px 9px 23px 0
+    }
+    .job_detail_content_box h3 a {
+        width: 250px
+    }
+    .form_page_background .card {
+        padding: 20px 15px 2px
+    }
+    .float-end.ans_btn {
+        margin-top: 15px
+    }
+    .post-c-wrap {
+        left: 10px;
+        top: 100px
+    }
+    .post_c_wrap_second {
+        top: 208px;
+        left: 11px
+    }
+    .post_c_wrap_second .meta i.bi.bi-person-circle {
+        top: 66px
+    }
+    .block_one .elementskit_metalists {
+        top: 157px
+    }
+    .block_one {
+        padding-bottom: 20px !important
+    }
+    .two_section_blog .info {
+        top: 104px;
+        width: 95%
+    }
+    .active-tabs {
+        width: 88%
+    }
+    .btn {
+        padding: 15px 29px 15px 30px
+    }
+    .small_article_img {
+        height: 90px
+    }
+    .small_article_img img {
+        height: 85px
+    }
+    .blog_top {
+        padding: 20px 0 230px
+    }
+    .two_section_blog {
+        padding-bottom: 17px
+    }
+    i#Approved_User {
+        left: 218px;
+        position: absolute;
+        padding: 7px 39px 8px
+    }
+    .slide_btn_home {
+        top: 121px
+    }
+    .module-gallery .slider-wrapper {
+        max-height: 481px
+    }
+    section.module-gallery.module-12345 {
+        height: 218px
+    }
+    .middleSection1 .tabsCons {
+        margin: 14px 0 31px
+    }
+    .link_regi {
+        text-decoration: underline !important
+    }
+    .Job_post_full .msform .action-button {
+        width: 259px !important;
+        margin: 16px 0 0
+    }
+    button.click_on {
+        right: 0;
+        top: 7px
+    }
+    .recent-job-card {
+        padding: 10px 9px
+    }
+    a.btn_type_article {
+        font-size: 14px
+    }
+    .currency {
+        left: 106px
+    }
+    .value {
+        left: 122px
+    }
+    .table_body a {
+        width: 91%;
+        text-align: center
+    }
+    .pricing-block-three .value,
+    .pricing-block-two .value {
+        left: 110px
+    }
+    .pricing-block-three .currency,
+    .pricing-block-two .currency {
+        left: 94px
+    }
+    .pricing-block {
+        margin-bottom: 23px
+    }
+    .table_title h3 {
+        font-size: 35px
+    }
+    .dashboard-vertical-nav .tabs label {
+        margin-right: 17px;
+        margin-left: 6px
+    }
+    header.trans_eff {
+        background: #fff;
+        position: sticky;
+        top: 0;
+        z-index: 999
+    }
+    .DownLod {
+        left: 72px
+    }
+    .mulite_icons ul {
+        top: -16px;
+        left: 9px
+    }
+    .mulite_icons:before {
+        top: -49px;
+        left: -2px
+    }
+    .line_top:before {
+        height: 72px;
+        clip-path: polygon(102% 0, 102% 95%, 0 95%);
+        top: -66px;
+        left: -2px
+    }
+    form .form__title {
+        margin-bottom: 0;
+        margin-top: 22px !important
+    }
+    .left_input_box {
+        margin: 0 0 7px
+    }
+    .bottom_navbar2 li.nav-item:hover {
+        background: #d3d3d3
+    }
+    .navbar-expand-lg .collapse ul ul>li:hover {
+        background: #d3d3d3 !important
+    }
+}
+
+@media screen and (min-width:1366px) {
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        width: 97%
+    }
+}
+
+@media screen and (min-width:1301px) {
+    .grid-banner-container {
+        grid-template-columns: 57% 1fr 0fr
+    }
+    .item3,
+    .item4 {
+        height: 134px
+    }
+}
+
+@media screen and (max-width:1366px) {
+    .User_Dashboard_section .candidate_profile_img {
+        margin: 3px 0 0 6px !important
+    }
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        width: 97%
+    }
+    .employer-wrap .avatar-preview {
+        left: 119px
+    }
+    .hr_Videos_right h4.heading_vid {
+        top: 183px
+    }
+    #right_vid_small_t {
+        top: 85px
+    }
+    .filter a {
+        padding: 5px 12px
+    }
+    .Resume_package .tabs li {
+        margin: 0 0 0 17px
+    }
+    .top_discussions_right span {
+        padding: 4px 161px 5px 14px
+    }
+    .section_1 .item1 {
+        width: 592px
+    }
+    .employer_leftmenu ul {
+        width: 83%
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .column_right {
+        width: 26%;
+        padding: 0 11px 0 0
+    }
+    .Trending_side_list .tab-content {
+        width: 52%
+    }
+    .Trending_side_list .nav-tab {
+        width: 47%
+    }
+    .Trending_side_list img {
+        aspect-ratio: 13/9
+    }
+    .middle_article {
+        padding: 0 7px 0 13px
+    }
+    .info_ImagE,
+    .right_Img_section {
+        max-width: 484px
+    }
+    .column_left {
+        width: 70%;
+        margin: 0 13px 0 25px
+    }
+    .left_align {
+        padding: 0 0 0 24px
+    }
+    .article_bottom_section,
+    .article_section,
+    .breadcrumbs {
+        padding: 0 14px
+    }
+    .HR_forum_left_section,
+    .job_left_align {
+        width: 18%
+    }
+    .HR_forum_center_section,
+    .middle_align {
+        width: 57%
+    }
+    .top_menu {
+        padding: 0 48px 0 12px
+    }
+    .right_align {
+        width: 23%;
+        padding: 0 13px 0 0
+    }
+    .HR_forum_left_section {
+        padding: 0 3px 0 24px
+    }
+    header .navbar-brand {
+        padding: 17px 10px
+    }
+    .free_job_post {
+        left: 63px
+    }
+    .grid-banner-container {
+        grid-template-columns: 53% 1fr 0fr;
+        grid-template-rows: 95fr 53fr
+    }
+    .item1,
+    .item1 img {
+        height: 450px
+    }
+    .right_float {
+        padding: 0
+    }
+    .bottom_navbar2 li.nav-item:first-child {
+        width: 10%;
+        max-width: 100%
+    }
+    #education_sec,
+    .newsLtrCon,
+    .sidebar-sec-v-marqu {
+        width: 99.5%
+    }
+    .item3,
+    .item4 {
+        width: 285px !important;
+        bottom: 15px
+    }
+    .item4 {
+        right: 10px
+    }
+    .bottom_navbar2 li.nav-item {
+        margin: 0 36px 0 0
+    }
+    .bottom_navbar2 li.nav-item:nth-child(2),
+    .bottom_navbar2 li.nav-item:nth-child(3),
+    .bottom_navbar2 li.nav-item:nth-child(4) {
+        width: 12%
+    }
+    .bottom_navbar2 li.nav-item:nth-child(8) {
+        width: 10%;
+        margin: 0 !important
+    }
+    .add_job_section img,
+    .add_space img,
+    .country_flag1 {
+        max-width: 100%
+    }
+    #after-start {
+        margin: 0 !important
+    }
+    .card-job,
+    i.bi.bi-caret-down-fill {
+        font-size: 12px
+    }
+    ul.nav_inner li {
+        width: 105px !important
+    }
+    .country_flag1,
+    .manage_sec .hiver02 {
+        width: 100% !important
+    }
+    .emplyer_top_navbar2 ul.nav_list li a {
+        padding: 0 4px
+    }
+    #Profile_Info .modal-header .btn-close {
+        right: -19px;
+        top: -8px
+    }
+    .all_show_job_section #Search_Filter {
+        width: 95%
+    }
+    .Carditems .title {
+        font-size: 18px
+    }
+    .hr_Videos_right h4.heading_vid {
+        top: 168px
+    }
+    #right_vid_small_t {
+        top: 77px
+    }
+    .Submit_Article_section_right .green,
+    .controll a {
+        font-size: 20px
+    }
+    .image-2 {
+        left: 205px;
+        width: 300px
+    }
+    #first_on a {
+        padding: 4px 6px 0 22px
+    }
+    .Search_Candidates_top_section {
+        padding: 39px 0 0 28px !important
+    }
+    section.section_1 .item1 img {
+        height: 359px
+    }
+    a#Clear_Btn {
+        top: 61px
+    }
+    .local i.bi.bi-geo-alt-fill {
+        right: 264px
+    }
+    .selectSection button {
+        width: 214px
+    }
+    .card-job {
+        padding: 10px 0 7px;
+        display: inline-block
+    }
+    .social_share_job ul li {
+        margin-right: 1px
+    }
+    .Job_Description p {
+        line-height: 21px
+    }
+    .job_listing {
+        padding: 0 0 90px
+    }
+    .Make_Payment {
+        padding: 7px 180px
+    }
+    .job_detail_icons h4,
+    .th-bottom-vector {
+        display: none
+    }
+    .inner-handle {
+        left: 68px
+    }
+    .BTN_Sub {
+        padding: 25px 40px 25px 44px
+    }
+    .buy_btn {
+        padding: 25px 59px 25px 61px
+    }
+    .BUSINESS_up {
+        left: 35px;
+        background: #967adc;
+        position: absolute;
+        top: -37px
+    }
+    .job_Responses {
+        left: 420px
+    }
+    #right_jobbox {
+        left: 36px
+    }
+    .btn-toggle:after {
+        right: 0
+    }
+    .search-field {
+        padding: 0 60px 0 37px;
+        margin: 0 2px
+    }
+    .slick-slider.slider-main .slick-slide img {
+        height: 430px
+    }
+    #hr_video .slider-main {
+        width: 76.3%;
+        height: 430px
+    }
+    .plans_section {
+        padding: 0 50px
+    }
+    .typing_bed {
+        left: 524px
+    }
+    .promo_boxes02 li {
+        right: 101px
+    }
+    .Sponsored_BTN {
+        left: 406px
+    }
+    .admin_login a .caret {
+        padding-left: 4px
+    }
+    .menu_icon {
+        left: 9px
+    }
+    .promo_boxes li {
+        margin-left: 52px
+    }
+    .Importance.of.Human.Resource,
+    .Role.of.HR {
+        width: 50%
+    }
+    .filter a {
+        padding: 5px 8px
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        padding: 5px 63px
+    }
+    .btn-toggle>.inner-handle {
+        left: 87px
+    }
+    .middleSection1,
+    .middleSection2 {
+        padding: 3px 9px 0 14px
+    }
+    .bottom_cate span {
+        padding: 10px 34px 10px 14px !important
+    }
+    .top_discussions_right span {
+        padding: 10px 143px 10px 14px !important
+    }
+    .ARTICLES_LISTS h3 {
+        width: 99.6%;
+        margin: 0 0 8px
+    }
+    .ARTICLES_LISTS li {
+        padding: 0 7px 0 0 !important
+    }
+    .change_width {
+        width: 30px !important;
+        margin-left: 6px
+    }
+    .ARTICLES_LISTS .Carditems {
+        height: 160px
+    }
+    .ARTICLES_LISTS .Carditems .title {
+        height: 68px
+    }
+    .btn-toggle>.handle {
+        left: 128px
+    }
+    .newsLtrCon.category_newsLtrCon button.btn {
+        width: 71px
+    }
+    .newsLtrCon .inputBox .form-control {
+        padding-right: 113px
+    }
+    .forum_category span {
+        padding: 10px 81px 10px 14px
+    }
+    .social-btn img {
+        margin: 4px -3px 0 0
+    }
+    .social-btn {
+        left: -108px
+    }
+    .expertScroll.mt30 .carousel ul li {
+        float: left;
+        width: 230px
+    }
+    .articleScroll2 .wrapper {
+        width: 325px !important
+    }
+    .module-gallery .slider-thumb li {
+        height: 103px !important;
+        padding-bottom: 39px
+    }
+    .module-gallery .slider-wrapper {
+        display: flex;
+        max-height: 503px
+    }
+    .expertCon {
+        padding: 24px 9px
+    }
+    .articleBox003 .media {
+        padding: 8px 0
+    }
+    aside.item {
+        padding: 19px 5px
+    }
+    #carouselExampleInterval12 .media {
+        height: 57px
+    }
+    .contributer_info {
+        padding: 4px 0
+    }
+    .footer {
+        padding: 70px 14px 50px
+    }
+    .trendingCon {
+        margin: 26px 0 0
+    }
+    .inputBox button.btn {
+        width: 84px;
+        padding: 1px 3px 17px 6px;
+        height: 35px
+    }
+    .btn-toggle:before {
+        left: 7px
+    }
+    div#carouselExampleInterval11 .btn_type {
+        right: 13px
+    }
+    .bootstrap-select>.dropdown-toggle {
+        width: 89% !important
+    }
+    .job_listing button.btn {
+        height: 42px;
+        padding: 6px 0 17px 6px
+    }
+    #by_job_taxonomy,
+    #job_taxonomy {
+        padding: 20px 0 15px 2px
+    }
+    .by_Category {
+        padding: 18px 0
+    }
+    .job_right_align {
+        padding: 0 13px 0 0 !important;
+        width: 23%
+    }
+    .HR_forum_right_section {
+        width: 23.1%
+    }
+    .HR_Forum_banner {
+        padding: 70px 14px 0
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        margin: 0 0 0 15px
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        width: 27%;
+        padding: 0 13px 0 0
+    }
+    .thanks_content {
+        max-width: 49%
+    }
+    #adddesigner {
+        height: 369px !important
+    }
+    .banner_heading {
+        left: 18px
+    }
+    .post-c-wrap {
+        height: 256px;
+        margin-top: 113px
+    }
+    .meta p {
+        line-height: 18px
+    }
+    .active-tabs {
+        width: 264px
+    }
+    .tabs-container {
+        width: 265px
+    }
+    .bt {
+        padding: 15px 19px 15px 18px
+    }
+    .job_detail_content .column_left {
+        width: 69%
+    }
+    .ans_btn li {
+        padding-right: 7px
+    }
+    .add_job_section {
+        margin: 0 0 10px
+    }
+    .post_c_wrap_second .meta i.bi.bi-person-circle {
+        top: 87px
+    }
+    .fliter_section i.bi.bi-search {
+        left: 197px
+    }
+    .Article_column_left {
+        padding: 0 18px 0 20px
+    }
+    .bottom_navbar2 li.nav-item ul.dropdown-menu,
+    .employer-wrap-thumb img {
+        width: 165px
+    }
+    .tooltip {
+        right: 6px;
+        top: 13px
+    }
+    .employer_find ul li {
+        margin: 0 5px 0 4px
+    }
+    .employer-wrap-thumb {
+        left: 78px
+    }
+    .totle,
+    a.Add_User {
+        margin-left: 0
+    }
+    .job_view_section {
+        padding: 6px 7px 0 10px
+    }
+    .hiver02 {
+        margin-left: 4px
+    }
+    #job_appliy_icons_list a {
+        font-size: 16px !important
+    }
+    .Dashboard_Job_post.hiver {
+        text-align: center;
+        display: block;
+        margin-left: 14px
+    }
+    .All_User_sec li {
+        padding: 0 14px 0 5px
+    }
+    i.bi.bi-caret-right-fill {
+        margin-left: -4px;
+        margin-right: 0;
+        font-size: 12px
+    }
+    .info {
+        top: 197px;
+        width: 95%
+    }
+    .two_section_blog img {
+        height: 390px
+    }
+    .post_c_wrap_second {
+        height: 188.5px
+    }
+    .two_section_blog .info {
+        top: 187px;
+        width: 95%
+    }
+    .newsLtrCon h3 {
+        font-size: 21px
+    }
+    .con_profile_right {
+        width: 28%
+    }
+    .con_profile_img_border {
+        height: 171px
+    }
+}
+
+@media only screen and (max-width:700px) {
+    #right_jobbox {
+        top: 17px;
+        left: 6pc !important
+    }
+    #Login_SectioN {
+        max-width: 86% !important
+    }
+    #Grid_Banner,
+    #banner_heading,
+    .hr_video {
+        display: none
+    }
+    .nav-tab {
+        width: 45% !important
+    }
+    .tab-content {
+        width: 54% !important
+    }
+    .latestJobsec ul#latest_category .cLOGO {
+        margin: 11px 5px
+    }
+    .hr_discussion .right_sec_head {
+        height: 30px
+    }
+    .full_biox,
+    header#trans_eff .full_biox {
+        width: 44% !important
+    }
+    .left_logo_side {
+        width: 29%
+    }
+    .add_responsiv_class {
+        width: 27%;
+        padding-right: 13px !important
+    }
+    ul.nav_list li {
+        padding: 8px 18px 0 0 !important
+    }
+    #carouselExampleInterval11 .nav-tab,
+    #carouselExampleInterval11 .tab-content {
+        width: 100%;
+        max-width: 100%
+    }
+    .RECENT.HR.DISCUSSION .hrdiscus.col-md-6,
+    .latestJobsec {
+        max-width: 100%;
+        width: 100% !important
+    }
+    article#carouselExampleInterval11 .Trending_side_list {
+        height: 203px;
+        width: 100%;
+        padding-bottom: 52px;
+        margin-bottom: 8px !important
+    }
+    .slide_on_click_two {
+        top: 148px
+    }
+    .Trending_side_list:nth-child(3),
+    .Trending_side_list:nth-child(4) {
+        display: none !important
+    }
+    #carouselExampleInterval12 .tab-content img {
+        height: 344px !important
+    }
+    .tab-content img {
+        height: 238px !important
+    }
+    .Trending_side_list img {
+        width: 100%;
+        height: 100%
+    }
+    .RECENT.HR.DISCUSSION,
+    .hrdiscus {
+        margin-top: 15px
+    }
+    .ARTICLES_LISTS .col-md-3.col-sm-12,
+    .ARTICLES_LISTS .col-sm-6.px-1 {
+        width: 50%
+    }
+    .hr_recent_tabs {
+        padding: 7px 9px 8px 12px
+    }
+    #respon_hidd_bottom .show_on_tablet {
+        margin: 2px 0 0
+    }
+    .Trending_side_list:nth-child(2n) {
+        display: inline-block
+    }
+    .ARTICLES_LISTS {
+        margin: 0 !important
+    }
+    .image_box img {
+        height: 205px !important
+    }
+    .HR_forum_center_section,
+    .HR_forum_right_section {
+        width: 100%
+    }
+    .HR_Forum_banner {
+        height: 203px;
+        padding: 0 14px 0 0 !important
+    }
+    .side_forum_s {
+        padding: 0 !important
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 15px 0 13px !important
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .busi_plan,
+    .pre_plan {
+        margin-top: 54px
+    }
+    #Nav_List li a {
+        font-size: 15px
+    }
+    .middle_article {
+        padding: 0 !important
+    }
+    .Article_column_left {
+        padding: 0 6px 0 9px !important
+    }
+    article.plan-blk {
+        max-width: 80%;
+        flex-wrap: wrap
+    }
+    aside.plan-cnt {
+        padding: 10px 0 15px 12px
+    }
+    .or_btn {
+        width: 18%;
+        padding: 14px 0 !important
+    }
+    .free_planbg {
+        padding: 18px 0 40px
+    }
+    .col-sm-4 {
+        width: 47%;
+        margin: 0 17px 0 0
+    }
+    #Login_SectioN {
+        max-width: 78% !important
+    }
+    .searchbar_inner {
+        width: 96% !important
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 13px
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        padding: 0 12px !important
+    }
+    .content_job_img {
+        width: 17% !important;
+        top: 6px
+    }
+    .middle_align {
+        margin: 0 0 0 13px;
+        width: 96% !important
+    }
+    #right_jobbox {
+        left: 8pc !important
+    }
+    #job_detail_content_box .content_job_img {
+        width: 95% !important
+    }
+    .job_detail_content_box {
+        padding: 15px 16px 32px;
+        height: auto
+    }
+    .right_align {
+        width: 98% !important;
+        padding: 17px 1px 0 14px !important
+    }
+    .HR_Forum_banner {
+        height: 200px
+    }
+    ul.nav_list li {
+        width: 3% !important;
+        padding: 4px 0 1px 8px
+    }
+    .column_left {
+        width: 96% !important;
+        margin: 0 0 0 16px !important
+    }
+    .bottom-sub-cat li,
+    .sub_category_first_column {
+        width: 100%;
+        margin-bottom: 18px !important
+    }
+    .bottom-sub-cat li:nth-child(2n) {
+        margin: 0 15px 15px 0
+    }
+    .Trending_side_list {
+        margin-bottom: 4px !important
+    }
+    .column_right {
+        width: 98% !important;
+        padding: 15px 0 0 14px !important
+    }
+    .ExclusivePlan_section_inner,
+    .Professional_section_inner,
+    .lite_section_inner {
+        width: 100%;
+        margin: 0
+    }
+    .hr_vid {
+        display: none
+    }
+    .info_dash span {
+        padding: 0 0 1px
+    }
+    .grid-banner-container .item1 {
+        height: 259px
+    }
+    .admin_login {
+        width: 141px !important;
+        margin: 0 0 0 8px !important
+    }
+    .slide_btn_home {
+        top: 112px
+    }
+    .bottom_navbar2 li.nav-item ul.dropdown-menu {
+        left: 309px
+    }
+    #staticBackdrop .modal-header .btn-close {
+        right: 40px
+    }
+    .wrapper__area {
+        margin: 65px auto 0 0
+    }
+    h4#company {
+        width: 11% !important
+    }
+    .footer h4 {
+        width: 9%
+    }
+    .newsLtrCon .g-recaptcha iframe {
+        width: 302px
+    }
+    .resume_writing_banner_sec section .item {
+        height: 75vh
+    }
+    div#carouselExampleInterval11 .btn_type a.Read.More {
+        padding: 0 0 0 11px
+    }
+    .carousel-nav .carousel-cell {
+        width: 161px
+    }
+    div#carouselExampleInterval11 a.tablinks {
+        margin-bottom: 15px
+    }
+    #fill_loc {
+        right: 20px
+    }
+    .banner_contact h1 {
+        padding: 15px 0 0 30px
+    }
+    ul.nav_list li:nth-child(7),
+    ul.nav_list li:nth-child(8) {
+        width: 12%
+    }
+    #searchbar_inner #btn-12 {
+        width: 24%
+    }
+    .banner_contact {
+        height: 107px
+    }
+    .contact_content {
+        padding: 12px
+    }
+    .table_body a {
+        margin: 25px 0 0 14px
+    }
+    .currency {
+        left: 40px
+    }
+    .value {
+        left: 59px
+    }
+    .pricing-block-three .currency,
+    .pricing-block-two .currency {
+        left: 39px
+    }
+    .pricing-block-three .value,
+    .pricing-block-two .value {
+        left: 55px
+    }
+    .resume_writing_banner_sec .owl-carousel {
+        z-index: 0
+    }
+    .filter a {
+        padding: 5px 27px
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        padding: 5px 28px
+    }
+    #job_news,
+    .Dashboard_left_section,
+    .Dashboard_right_section,
+    .employer-single-bo,
+    .module-gallery .slider-thumb li .slick-initialized .slick-slide,
+    .slick-slide img {
+        width: 51%
+    }
+    .articleScroll2,
+    .articleScroll2 .wrapper {
+        width: 100% !important
+    }
+    .articleScroll2 {
+        margin: 0 !important
+    }
+    .job_show_sec {
+        width: 20%
+    }
+    .pagination_sec {
+        width: 40%
+    }
+    .employer-wrap-thumb,
+    .employer-wrap-thumb img {
+        width: 224px;
+        height: 157px
+    }
+    .BUSINESS_up {
+        left: 80px
+    }
+    i.bi.bi-search {
+        left: 63px
+    }
+    .employer-wrap-thumb {
+        top: 5px;
+        left: 135px
+    }
+    .tooltip:hover span {
+        opacity: 1;
+        top: 7px;
+        left: 4px
+    }
+    .tooltip span {
+        top: 7px;
+        left: 25px
+    }
+    .tooltip {
+        right: 290px;
+        top: 6px
+    }
+    .fliter_section i.bi.bi-search {
+        left: 490px;
+        padding: 11px 70px 7px
+    }
+    .search-field {
+        margin: 0 7px
+    }
+    .newsLtrCon .inputBox button.btn {
+        width: 140px;
+        height: 34px;
+        padding: 0 3px 17px 6px
+    }
+    .bottom_category_option>div>h4>a {
+        padding: 11px 12px 6px 7px;
+        font-size: 15px
+    }
+    .nav-tab a {
+        padding: 0 0 8px
+    }
+    .job_Responses {
+        left: 272px
+    }
+    .item2 {
+        height: 150px
+    }
+    .item2 img {
+        height: 140px
+    }
+    .Approved_names {
+        width: 400px
+    }
+    .item3,
+    .item4 {
+        height: 100px
+    }
+    .footer {
+        background-image: url(../images/footer-bg.jpg);
+        padding: 38px 0 50px;
+        background-repeat: repeat
+    }
+    .footer-sec {
+        margin: 0 0 0 10px
+    }
+    .footer_one_sec {
+        width: 100%;
+        padding: 0 22px 22px 0
+    }
+    .footer_two_sec {
+        width: 33%;
+        padding: 0 3px
+    }
+    .footer_three_sec {
+        width: 32%;
+        padding: 0 2px
+    }
+    .footer_four_sec {
+        width: 35%;
+        padding: 0 6px
+    }
+    .social2 li {
+        margin: 0;
+        padding: 3px 6px 0 7px
+    }
+    .recenthrarticle {
+        top: 185px;
+        font-size: 17px
+    }
+    .recent_article_icon {
+        margin-top: -53px;
+        font-size: 12px !important
+    }
+    .articleBox001 img {
+        height: 243px
+    }
+    .All_User_sec li {
+        padding: 0 0 0 53px
+    }
+    input#Approved_Search {
+        margin-bottom: 25px
+    }
+    .modern-boxe {
+        margin-bottom: 44px
+    }
+    .newsLtrCon.category_newsLtrCon button.btn {
+        width: 134px
+    }
+    .BTN_Sub {
+        padding: 25px 47px 25px 62px
+    }
+    .buy_btn {
+        padding: 25px 50px 25px 80px
+    }
+    .trendingCon .media {
+        padding: 0 0 31px
+    }
+    .articleScroll2 ul,
+    div#carouselExampleInterval11 a.tablinks {
+        padding: 0 0 8px 10px
+    }
+    .typing_bed {
+        left: 396px;
+        font-size: 26px;
+        width: 250px
+    }
+    .social {
+        top: 153px
+    }
+    .Sponsored_BTN {
+        left: 391px
+    }
+    .Paid {
+        left: 625px !important
+    }
+    .promo_boxes02 li {
+        right: 54px
+    }
+    div#full_biox_02 {
+        width: 1%;
+        padding: 0;
+        margin: 0
+    }
+    .PREMIUM_PLAN_section_inner {
+        margin-bottom: 0
+    }
+    .articleBox003 .commanTitle,
+    .jobsCat {
+        margin: 0
+    }
+    .RECENT.HR.DISCUSSION {
+        margin: 20px 15px 0 0
+    }
+    h3.CONTRIBUTORS {
+        margin: 22px 0 0
+    }
+    .expertScroll.mt30 .carousel ul li {
+        width: 257px
+    }
+    div#carouselExampleInterval11 .btn_type {
+        width: 13%
+    }
+    .right_float {
+        left: 5px
+    }
+    .hidden_desktop span.by_Category {
+        padding: 18px 525px 18px 18px
+    }
+    .DISCUSSION_Title h1 {
+        font-size: 37px
+    }
+    .DISCUSSION_Title p {
+        font-size: 18px
+    }
+    .side_forum_s {
+        padding: 25px 0 0;
+        font-size: 16px
+    }
+}
+
+@media screen and (max-width:684px) {
+    .btn-12 span {
+        width: 92%;
+        height: 45px;
+        max-width: 100%
+    }
+    #searchbar_inner #btn-12 {
+        position: initial;
+        line-height: 43px
+    }
+    .employee-mob span {
+        text-shadow: 0 1px #000;
+        color: #fff;
+        font-family: Oswald;
+        font-size: 36px
+    }
+    #Nav_List .hide_moblie,
+    #Nav_List li:nth-child(5),
+    .Popular_Searches {
+        display: none
+    }
+    #free_btn002,
+    #upload002 {
+        background-color: #ff0;
+        box-shadow: 0 0 20px #eee;
+        padding: 9px;
+        border-radius: 8px;
+        width: 99%;
+        color: #000;
+        max-width: 100%;
+        font-size: 25px;
+        display: inline-block;
+        text-align: center
+    }
+    a#free_btn002 {
+        background: #0ea801;
+        color: #fff
+    }
+    .employee-mob,
+    .joseeker-mob {
+        display: inline-block;
+        width: 49%
+    }
+    .joseeker-mob span {
+        text-shadow: 3px 2px #000;
+        color: #ff0;
+        font-family: Oswald;
+        font-size: 36px;
+        text-align: center
+    }
+    .city_key,
+    .country_flag,
+    .job_key {
+        width: 96%;
+        max-width: 100%
+    }
+    .job_banner_content {
+        padding: 47px 0 0;
+        margin: 0 auto;
+        max-width: 77%
+    }
+    .nav-tab a {
+        padding: 0 0 2px
+    }
+    ul.nav_list li {
+        padding: 6px 28px 1px 6px
+    }
+    .bottom_navbar2 div#navbarNavDropdown {
+        top: -56px;
+        left: 21px;
+        width: 49%
+    }
+    #Nav_List li:last-child {
+        margin: 0;
+        padding: 4px 0 3px
+    }
+    .top_navbar2 ul li:first-child>div {
+        right: 1px
+    }
+    .top_navbar2 ul li>div {
+        right: 4px
+    }
+    .top_navbar2 ul li:nth-child(7)>div {
+        right: 0
+    }
+    .top_navbar2 ul li:nth-child(8)>div {
+        right: -1px
+    }
+    #Nav_List li a {
+        padding: 0 16px 0 0;
+        font-size: 15px
+    }
+    .tab-content {
+        width: 100%
+    }
+    .trendingCon .nav-tab {
+        width: 100%;
+        margin-top: 12px
+    }
+    .twm-media {
+        left: -46px
+    }
+    div#carouselExampleInterval11 .tab-content p {
+        height: 100%
+    }
+    .filter a {
+        padding: 5px 21px !important
+    }
+    .Resume_package .tabs li a,
+    .Resume_package .tabs_second li a {
+        padding: 5px 23px !important
+    }
+    .DISCUSSION_Title p {
+        width: 557px
+    }
+    .Preview_job_posting_content div#bottom_btn .job_detail_btn {
+        margin: 17px 121px 23px 0
+    }
+    .small_content {
+        padding: 30px 0 0 3px
+    }
+    .active-tabs {
+        width: 98%;
+        margin-bottom: 731px
+    }
+    .btn {
+        padding: 15px 76px
+    }
+    .two_section_blog .info {
+        top: 260px
+    }
+    .Article_column_right .newsLtrCon.category_newsLtrCon {
+        width: 98%;
+        margin-top: 13px
+    }
+    .employer_find ul li {
+        margin: 0 20px
+    }
+    .two_section_blog {
+        padding-bottom: 7px
+    }
+    .Approved_names {
+        width: 368px !important
+    }
+    #tooltipresponse {
+        right: 245px
+    }
+    i#Filters_search {
+        left: 524px
+    }
+    #pagination_response {
+        width: 46%
+    }
+    #modern-boxes li,
+    #promo_boxesid li {
+        right: 81px
+    }
+    .DISCUSSION_Title h1 {
+        font-size: 33px
+    }
+    #Article_block_mobile {
+        width: 6%;
+        margin-right: 17px;
+        display: block !important
+    }
+    .column_left {
+        margin: 0 0 0 14px !important
+    }
+    #Letter_block_mobile,
+    #Resume_block_mobile {
+        display: inline-block !important;
+        width: 9%;
+        margin-right: 20px
+    }
+    #Nav_List li:nth-child(3) {
+        width: 7%;
+        margin-right: 19px
+    }
+    #Nav_List li:nth-child(4) {
+        width: 7%;
+        margin-right: 16px
+    }
+    #Nav_List li:nth-child(6) {
+        width: 8%;
+        margin-right: 15px
+    }
+}
+
+@media screen and (max-width:494px) {
+    .tab-content .title {
+        font-size: 19px
+    }
+    .expertCon {
+        padding: 0 !important;
+        margin-top: 0 !important
+    }
+    .first_column_left {
+        padding: 0 14px !important
+    }
+    .col-sm-4 {
+        width: 100%;
+        margin: 0 17px 20px 20px
+    }
+    aside.item::before {
+        top: 13px;
+        left: 121px
+    }
+    body::-webkit-scrollbar {
+        width: 1px;
+        display: none
+    }
+    .All_plan_start {
+        padding: 0;
+        display: block;
+        margin: 0;
+        max-width: 92%
+    }
+    .block_one .bottom_para,
+    .sigup_achor {
+        font-size: 15px !important
+    }
+    .show_on_tablet,
+    header.trans_eff {
+        background: #0ea900
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 17px 0 10px !important
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        padding: 0 7px 0 8px !important
+    }
+    .ARTICLES_LISTS,
+    .footer-sec,
+    .modern-boxes h2 {
+        margin: 0
+    }
+    .right_sec_form {
+        max-width: 470px !important
+    }
+    .middle_align {
+        margin: 0 0 0 14px;
+        width: 94% !important
+    }
+    .right_align {
+        width: 97% !important
+    }
+    .sign_up button.SubMit_btn {
+        padding: 8px 179px !important
+    }
+    .left_Img_section {
+        max-width: 468px !important;
+        padding: 39px 9px !important;
+        margin: 0 !important
+    }
+    .logIn-sec {
+        max-width: 93% !important
+    }
+    .footer_two_sec {
+        padding: 9px 3px !important
+    }
+    .footer_one_sec {
+        padding: 0 11px 0 0 !important
+    }
+    .footer {
+        padding: 25px 0 !important
+    }
+    .bottom-footer-second {
+        top: 7px !important
+    }
+    aside.item {
+        padding: 6px 15px
+    }
+    .Trending_side_list {
+        height: 200px
+    }
+    .image_box img {
+        height: 230px !important
+    }
+    #carouselExampleInterval12 .tab-content img {
+        height: 260px !important
+    }
+    .for_responsive::after {
+        content: "| ";
+        position: absolute;
+        right: 0
+    }
+    #Login_SectioN {
+        margin: 10px 0 !important;
+        max-width: 96% !important
+    }
+    .top_navbar2 {
+        height: 49px
+    }
+    .recent-job-card {
+        margin: 0 3px 20px 0;
+        padding: 5px 10px 12px
+    }
+    #carouselExampleInterval11 .nav-tab,
+    .Article_slide_section .carousel-control-prev.slide_btn_home,
+    .Job_Post_content,
+    .Letter_writing_banner h1,
+    .Letter_writing_banner span,
+    .Submit_banner,
+    .banner_About_US,
+    .banner_free_job,
+    .category_style iframe,
+    .con_profile_img ul,
+    .contributor_banner,
+    .cvicon,
+    .job_checkout,
+    .job_detail_icons,
+    .line_top p,
+    .modern-boxes img,
+    .modern-boxes-hide,
+    .mulite_icons ul,
+    .slide_btn_home,
+    .slide_on_click_two,
+    .work_PROcess,
+    button.resume_testmo_slide,
+    div#jobs_column_right,
+    form#signUpForm .General_text {
+        display: none
+    }
+    #searchbar_inner .btn-12 span {
+        width: 85%
+    }
+    #right_jobbox {
+        left: 2pc !important
+    }
+    .free_job_post {
+        left: 11% !important
+    }
+    #free_job_post,
+    #join_now {
+        height: 144px;
+        width: 180px;
+        padding: 0 10px
+    }
+    .twm-title001,
+    .twm-title002 {
+        position: relative;
+        bottom: 12px;
+        margin-bottom: 4px
+    }
+    .free_btn,
+    .join_now #upload {
+        padding: 8px 15px !important
+    }
+    .join_now #upload {
+        left: 0
+    }
+    #twm-title02 {
+        top: 2px;
+        right: 12px
+    }
+    .content_job_img,
+    .left_logo_side {
+        width: 25% !important
+    }
+    #twm-title {
+        right: 12px !important;
+        top: 2px !important
+    }
+    #Card01 {
+        margin: 6px auto;
+        width: 100%
+    }
+    #mainWork {
+        display: block;
+        width: 100%
+    }
+    .col-4 {
+        width: 100%;
+        margin: 67px 0 13px
+    }
+    header .navbar-brand {
+        height: 47px;
+        margin: 0
+    }
+    .click_on:before {
+        color: #000 !important
+    }
+    .google-auto-placed.ap_container {
+        height: 250px !important
+    }
+    .click_on i.bi.bi-caret-down-fill,
+    input#txtPassword002 {
+        font-size: 13px !important
+    }
+    .resume_writing_banner_sec section .item {
+        height: 185px
+    }
+    .con_profile_img_border,
+    .contributor_content,
+    .contributor_img {
+        margin: auto !important
+    }
+    .Article_detail_top_section h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        text-align: left
+    }
+    .Submit_Article_section_left {
+        width: 95% !important
+    }
+    .add_responsiv_class {
+        width: 27%;
+        padding-right: 1px !important
+    }
+    header.trans_eff a.for_responsive {
+        width: 48% !important;
+        padding: 11px 4px 13px 0 !important;
+        font-size: 15px !important
+    }
+    p.Knowledge,
+    p.Letters {
+        font-size: 14px
+    }
+    .leftMenu ul li a::after {
+        content: "|";
+        padding-left: 9px
+    }
+    #Nav_List li a {
+        padding: 0 26px 0 0;
+        font-size: 16px !important
+    }
+    .sigup_achor {
+        padding: 13px 0 12px !important;
+        text-shadow: none !important
+    }
+    #job_detail_content_box .content_job_img,
+    .ARTICLES_LISTS .col-sm-6.px-1,
+    .HR_forum_center_section,
+    .navbar-brand img,
+    .right_input_box>select,
+    .tab-content {
+        width: 100% !important
+    }
+    #carouselExampleInterval12 .tab-content {
+        width: 100% !important;
+        height: 100% !important
+    }
+    .Contributor_detail_pro,
+    .artilce_fedd_second .listCard,
+    .con_profile_img,
+    .image_box img {
+        width: 100% !important;
+        max-width: 100%
+    }
+    .Contributor_detail_pro {
+        height: auto !important;
+        margin-top: 15px
+    }
+    .artilce_fedd_second .listCard .image_box img,
+    .bk-mask img {
+        height: 100%
+    }
+    div#staticBackdrop .modal-dialog {
+        max-width: 475px;
+        margin: 0 auto
+    }
+    .Paid,
+    .free_TOP {
+        right: 34px;
+        top: 189px
+    }
+    div#staticBackdrop .modal-dialog .modal-body {
+        padding: 0
+    }
+    .wrapper__area {
+        margin: 0 auto;
+        width: 480px;
+        height: 463px
+    }
+    form#signUpForm {
+        background: #000;
+        height: 738px;
+        top: 77%;
+        padding: 10px 7px 3px 6px
+    }
+    form .form__title {
+        margin-bottom: 0
+    }
+    div#staticBackdrop .modal-header .btn-close {
+        right: 15px;
+        top: 35px;
+        opacity: 1
+    }
+    div#staticBackdrop .ForGot {
+        margin-right: 37px
+    }
+    form#loginForm .sign_IN button.SubMit_btn {
+        margin: 0 0 0 13px;
+        width: 88%;
+        padding: 8px 0 !important
+    }
+    .wrapper__area.sign-up__Mode-active .login__aside-info {
+        margin-top: -587px
+    }
+    #loginForm .checkbox.form-box .sing_in_checked {
+        padding: 0 0 21px 11px !important
+    }
+    form#loginForm {
+        height: 639px;
+        padding: 310px 20px 0;
+        width: 81%
+    }
+    div#staticBackdrop {
+        top: 29%;
+        padding: 0 117px 0 0 !important
+    }
+    .aside__area {
+        width: 106px
+    }
+    .bottom_detail_btn {
+        margin-left: 0;
+        padding: 0
+    }
+    .detail_btn {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 0 6px !important
+    }
+    .job_detail_btn {
+        margin: 4px 9px 6px;
+        width: 45%
+    }
+    .left_input_box input[type=password],
+    .left_input_box input[type=text],
+    .profile_tit {
+        width: 100%;
+        max-width: 100%
+    }
+    .job_Keywords ul li {
+        margin: 6px 3px 5px 0;
+        width: 100%;
+        text-align: center
+    }
+    .LetteR_boX {
+        margin-top: 38px
+    }
+    .Make_Payment {
+        padding: 7px 28px
+    }
+    .form_page_background .card {
+        margin-top: 18px
+    }
+    h1.sec-title {
+        padding: 0;
+        text-align: left !important
+    }
+    .pricing_body h5,
+    .pricing_head h4,
+    .software-table a {
+        text-align: center
+    }
+    .Exisitng_Customer {
+        width: 58%;
+        margin: 0 0 5px
+    }
+    .msform {
+        padding: 0;
+        border: 0 solid #f3f7fe
+    }
+    #progressbar li {
+        width: 31%;
+        margin: 9px 0 0
+    }
+    #signUpForm .left_input_box input[type=password],
+    .left_input_box input[type=text] {
+        padding: 4px 0 3px 1px;
+        font-size: 13px;
+        width: 95%;
+        height: 32px !important
+    }
+    .fs12 {
+        font-size: 8px;
+        padding: 0
+    }
+    form#signUpForm .right_input_box>select {
+        color: #fff;
+        height: 31px
+    }
+    .sign-up__aside-info {
+        margin-top: 134px;
+        padding-top: 124px !important
+    }
+    .aside__area>div p {
+        font-size: 23px
+    }
+    .aside__area>div button {
+        width: 84%;
+        padding: 8px 0;
+        font-size: 14px;
+        letter-spacing: 0
+    }
+    .letter_sign_up #confirmPassword {
+        padding: 0 !important;
+        font-size: 13px !important
+    }
+    input#txtPassword002 {
+        padding: 3px 0 0 !important
+    }
+    .ARTICLES_LISTS .Carditems .title {
+        height: 66px !important;
+        font-size: 23px;
+        line-height: 30px !important
+    }
+    .Sponsored_BTN,
+    .contributer_BTN {
+        width: 95%;
+        margin: 7px 0 0 4px
+    }
+    .ARTICLES_LISTS .Carditems {
+        height: 169px !important
+    }
+    form#signUpForm #main-password button {
+        top: 4px !important
+    }
+    .employee-mob span,
+    .joseeker-mob span {
+        font-size: 26px;
+        text-align: center
+    }
+    .ARTICLES_LISTS {
+        margin: 0 0 13px 6px !important;
+        width: 98%
+    }
+    .ARTICLES_LISTS h3 {
+        width: 98.6% !important
+    }
+    .social2 li {
+        margin: 0 0 9px !important
+    }
+    .right_input_box {
+        width: 100%;
+        margin: 4px 0 8px
+    }
+    .left_input_box {
+        width: 100%;
+        margin: 0
+    }
+    form#signUpForm input.inpt_mobile {
+        padding: 0 0 0 1px;
+        font-size: 13px;
+        width: 100%
+    }
+    .ARTICLES_LISTS .col-md-3.col-sm-12,
+    .footer_four_sec,
+    .footer_one_sec,
+    .footer_three_sec,
+    .footer_two_sec,
+    .form-group.form-box {
+        width: 100%
+    }
+    div#staticBackdrop .sign_up button.SubMit_btn {
+        height: 42px;
+        padding: 0 44px;
+        margin: 0 0 0 34px;
+        max-width: 100%;
+        width: 100%
+    }
+    .sign_up {
+        display: block !important
+    }
+    .g-recaptcha {
+        width: 76%;
+        margin: 0 auto
+    }
+    section .item img {
+        object-fit: unset;
+        height: 100%;
+        max-height: 100%
+    }
+    .software-table tr td {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block
+    }
+    .Resume_package ul.tabs li {
+        max-width: 100%;
+        width: 93%
+    }
+    .heading_qus h2 {
+        font-size: 25px !important
+    }
+    .heading_qus {
+        width: 80.333333%
+    }
+    .hr_profile {
+        width: 15.666667%
+    }
+    .filter a {
+        width: 96%;
+        max-width: 100%
+    }
+    article.questions-tabs {
+        margin-top: 56px !important
+    }
+    .software-table tr td img {
+        margin: 0 auto;
+        display: block
+    }
+    .breadcrumbs .container,
+    .hrforum_inner {
+        width: 97%
+    }
+    .company_name {
+        padding: 0 0 5px
+    }
+    .HR_Forum_banner {
+        display: none;
+        height: auto
+    }
+    .side_search_hr {
+        width: 98%
+    }
+    .Start_Topic {
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 7px
+    }
+    .DISCUSSION_Title {
+        padding: 16px 10px 0 0
+    }
+    #article-detail-img {
+        height: 300px
+    }
+    .Article_slide_section img,
+    .two_section_blog img {
+        height: 288px !important
+    }
+    .post_c_wrap_second {
+        padding: 9px 8px 20px 10px !important
+    }
+    .add_job_section,
+    .show_on_tablet {
+        margin: 0 !important
+    }
+    .read_more_click {
+        width: 84px !important;
+        margin-top: 8px !important
+    }
+    i.bi.bi-caret-right-fill {
+        margin-left: 14px;
+        margin-right: 0;
+        font-size: 14px;
+        top: -2px;
+        position: relative
+    }
+    .post_c_wrap_second a {
+        font-size: 27px
+    }
+    .breadcrumbs {
+        height: auto
+    }
+    .Article_column_left {
+        margin: 0 24px 0 3px;
+        width: 99% !important
+    }
+    .article_bottom_section {
+        margin: 10px 4px 0 1px
+    }
+    ul.nav_list li {
+        margin-left: 6px;
+        padding: 5px 33px 0 0 !important
+    }
+    .column_left {
+        margin: 0 2px 0 14px !important;
+        width: 94% !important
+    }
+    .common-thumnail-cat {
+        height: 291px !important
+    }
+    .column_right {
+        width: 97% !important;
+        padding: 15px 0 0 15px !important
+    }
+    #Article_block_mobile {
+        width: 14%;
+        margin-right: 0
+    }
+    #Nav_List li:nth-child(3) {
+        width: 14%;
+        margin-right: 2px
+    }
+    #Nav_List li:nth-child(4) {
+        width: 13%;
+        margin-right: 0
+    }
+    #Nav_List li:nth-child(6),
+    #Resume_block_mobile {
+        width: 15%;
+        margin-right: 0
+    }
+    #Nav_List {
+        padding: 0 7px 0 5px
+    }
+    .city_key,
+    .country_flag,
+    .job_key {
+        width: 96%
+    }
+    .top_menu {
+        padding: 0 14px 0 0 !important
+    }
+    header.trans_eff button.navbar-toggler i.bi.bi-list {
+        font-size: 31px !important;
+        bottom: 8px !important
+    }
+    header.trans_eff button.navbar-toggler {
+        padding: 14px 5px 0 0 !important
+    }
+    .bottom_navbar2 div#navbarNavDropdown {
+        top: -55px;
+        left: 0;
+        width: 48%
+    }
+    .bottom_navbar2 #navbarNavDropdown li.nav-item ul.dropdown-menu {
+        left: 237px;
+        top: 0;
+        width: 82%
+    }
+    #navbarNavDropdown ul.dropdown-menu li a {
+        font-size: 13px;
+        padding: 2px 0 0
+    }
+    button.click_on {
+        right: 0;
+        top: 10px
+    }
+    .bottom_navbar2 li.nav-item a.nav-link.click-scroll {
+        padding: 6px 0 7px 45px !important
+    }
+    .bottom_navbar2 li.nav-item {
+        padding: 2px 0 3px;
+        height: 38px
+    }
+    .employee-mob,
+    .joseeker-mob {
+        display: inline-block;
+        width: 46%;
+        margin: 0
+    }
+    .employee-mob {
+        margin-left: 12px
+    }
+    div#latest_category {
+        padding: 0 4px 0 0
+    }
+    .job_detail_content_box {
+        padding: 10px 10px 0;
+        display: flex;
+        flex-flow: wrap;
+        height: auto
+    }
+    .searchbar_inner {
+        height: 219px;
+        bottom: 90px
+    }
+    .company_logo_share {
+        float: none;
+        width: 25% !important
+    }
+    .Job_Description {
+        width: 400px
+    }
+    #searchbar_inner #btn-12 span {
+        top: 154px;
+        width: 93%
+    }
+    .card-job {
+        display: block !important;
+        padding: 0;
+        font-size: 14px;
+        line-height: 26px
+    }
+    ul.profile_tit.p-0 li {
+        display: inline-block !important;
+        margin-bottom: 1px
+    }
+    .recent-job-card .content_job_text {
+        width: 75%
+    }
+    .full_box {
+        margin: 0;
+        width: 100% !important;
+        position: relative
+    }
+    p.Knowledge {
+        margin: 0 6px 0 0 !important;
+        bottom: 17px
+    }
+    p.Letters {
+        bottom: -2px;
+        margin: 0
+    }
+    header.trans_eff .container .row {
+        margin: 0;
+        --bs-gutter-x: 0rem;
+        padding: 0
+    }
+    header.trans_eff .container {
+        width: 100%;
+        padding: 0
+    }
+    header#trans_eff .full_biox {
+        width: 46% !important
+    }
+    .leftMenu ul li a {
+        padding: 0;
+        font-size: 14px !important
+    }
+    #Letter_block_mobile {
+        width: 13%;
+        margin-right: 4px
+    }
+    .job_detail_content_box .content_job_text {
+        width: 73% !important;
+        float: none
+    }
+    #Nav_List li:last-child {
+        width: 10%;
+        margin: 0;
+        padding: 0 5px 2px 4px !important;
+        background: 0 0
+    }
+    ul.nav_list li a::after {
+        left: 15px !important;
+        bottom: 9px
+    }
+}
+
+@media screen and (max-width:400px){
+    .left_logo_side {
+        width: 28% !important
+    }
+    header.trans_eff button.navbar-toggler i.bi.bi-list {
+        font-size: 31px !important;
+        bottom: 15px !important
+    }
+    #Nav_List li a {
+        padding: 0 !important;
+        font-size: 15px !important;
+        text-align: left
+    }
+    ul.nav_list li a::after {
+        left: 7px !important
+    }
+    .Trending_side_list {
+        height: 236px;
+        width: 100% !important;
+        margin-bottom: 23px !important
+    }
+    i.bi.bi-lock-fill,
+    i.bi.bi-person-fill {
+        right: 0 !important
+    }
+    header.trans_eff button.navbar-toggler {
+        padding: 21px 3px 0 0 !important
+    }
+    .full_box {
+        height: 45px
+    }
+    header.trans_eff a.for_responsive {
+        padding: 7px 2px 7px 0 !important
+    }
+    header#trans_eff .full_biox {
+        width: 41% !important
+    }
+    .add_responsiv_class {
+        width: 30%;
+        padding-right: 0 !important
+    }
+    .show_on_tablet {
+        margin: 5px 0 0 !important
+    }
+    .for_responsive,
+    .sigup_achor {
+        font-size: 14px !important;
+        padding: 8px 0 6px !important
+    }
+    p.Knowledge {
+        margin: 0 6px 0 0 !important;
+        bottom: 20px
+    }
+    p.Letters {
+        bottom: 0;
+        margin: 0
+    }
+    #Article_block_mobile {
+        width: 12%;
+        margin-right: 0
+    }
+    #Nav_List li:nth-child(3),
+    #Nav_List li:nth-child(4) {
+        width: 12%
+    }
+    #Nav_List li:nth-child(6) {
+        width: 14%
+    }
+    #Nav_List {
+        padding: 0 4px
+    }
+    ul.nav_list li {
+        margin-left: 6px !important;
+        padding: 5px 0 0 !important
+    }
+    #Nav_List li:nth-child(6),
+    #Resume_block_mobile {
+        margin-right: 10px
+    }
+    #Nav_List li:last-child {
+        width: 12%;
+        padding: 0 !important
+    }
+    #Letter_block_mobile {
+        margin-right: 11px
+    }
+    .ARTICLES_LISTS {
+        width: 96%
+    }
+    #Login_SectioN {
+        max-width: 94% !important
+    }
+    .sign_up button.SubMit_btn {
+        padding: 8px 136px !important
+    }
+    .General_text h5 {
+        display: none
+    }
+    .left_input_box {
+        margin: 0 0 7px !important
+    }
+    .mobile-show-img {
+        width: 360px;
+        height: 230px;
+        display: inline-block !important
+    }
+    #article-detail-img {
+        display: none !important
+    }
+    .mobile-show-img img {
+        height: 100% !important;
+        width: 100% !important;
+        display: inline-block !important
+    }
+}
+
+@media screen and (max-width:390px) {
+    .free_job_post {
+        left: 5% !important
+    }
+    #free_job_post,
+    #join_now {
+        height: 138px;
+        width: 164px;
+        padding: 0 10px
+    }
+    #right_jobbox {
+        left: 11px !important
+    }
+    .free_btn,
+    .join_now #upload {
+        font-size: 16px
+    }
+    .General_text {
+        display: block
+    }
+    #Article_block_mobile {
+        width: 9%
+    }
+    .left_Img_section {
+        padding: 34px 22px 13px 0
+    }
+    .SubMit_btn {
+        width: 80%
+    }
+    .job_detail_content_box .content_job_text {
+        width: 73%
+    }
+    .bottom_navbar2 #navbarNavDropdown li.nav-item ul.dropdown-menu {
+        left: 187px;
+        width: 88%
+    }
+    #Article_block_mobile div {
+        right: -4px !important
+    }
+    #article-detail-img {
+        height: 230px !important;
+        max-height: 100%
+    }
+    #Nav_List li:nth-child(3),
+    #Nav_List li:nth-child(4) {
+        width: 8%;
+        margin-right: 0
+    }
+    #Nav_List li:nth-child(3) div,
+    #Nav_List li:nth-child(6) div,
+    #Resume_block_mobile div {
+        right: -8px !important
+    }
+    #Nav_List li:nth-child(4) div {
+        right: -2px !important
+    }
+    #Nav_List li:nth-child(6) {
+        width: 10%;
+        margin-right: 0;
+        margin-left: 3px
+    }
+    #Resume_block_mobile {
+        width: 10%;
+        margin-right: 8px;
+        margin-left: 8px
+    }
+    #Letter_block_mobile {
+        width: 10%;
+        margin-right: 0
+    }
+    #Letter_block_mobile div {
+        right: -3px !important
+    }
+    .navbar-toggler-icon i.bi.bi-list {
+        font-size: 21px !important
+    }
+    p.Knowledge {
+        margin: 0 10px 0 2px
+    }
+    p.Letters {
+        margin: 20px 0 0 1px !important
+    }
+    header.trans_eff button.navbar-toggler {
+        padding: 11px 2px 0 5px
+    }
+    .free_btn {
+        left: 6px !important
+    }
+}
+
+@media screen and (max-width:375px) {
+    .bottom_navbar2 div#navbarNavDropdown {
+        top: -60px;
+        left: 9px;
+        width: 59%
+    }
+    .info strong {
+        font-size: 13px
+    }
+    .two_section_blog .info {
+        top: 105px !important
+    }
+    .job_detail_content .column_right {
+        margin: 0 0 0 12px
+    }
+    .sing_in_checked {
+        margin: 16px 0 0 15px
+    }
+    .Regsiter_from_sec iframe {
+        margin: 15px 0 0 -23px
+    }
+    .articleScroll2 .media-body p {
+        padding: 0 70px 0 1px
+    }
+    .Exisitng_Customer {
+        width: 76%
+    }
+    .DISCUSSION_Title p,
+    .newsLtrCon {
+        width: 331px
+    }
+    h2#heading {
+        width: 320px
+    }
+    .overlay h3 {
+        padding: 0 7px;
+        font-size: 15px
+    }
+    .promo_boxes li {
+        margin-left: 53px
+    }
+    #modern-boxes li,
+    #promo_boxesid li {
+        right: 85px
+    }
+    .border_set {
+        top: 7px
+    }
+    ul.nav_list li:after {
+        padding: 0 2px
+    }
+    .BTN_Sub {
+        padding: 25px 38px 25px 62px
+    }
+    .BUSINESS_up {
+        left: 64px
+    }
+    .category_xs_Show {
+        display: block
+    }
+    .pay_sec {
+        max-width: 34%
+    }
+    .buy_btn {
+        padding: 25px 61px 25px 84px
+    }
+    .category_xs_noe {
+        display: none
+    }
+    .make_payment_inner .Make_Payment {
+        padding: 10px 96px 11px 121px;
+        margin: 17px 0 0
+    }
+    .Preview_job_posting_content div#bottom_btn .job_detail_btn {
+        margin: 19px 11px 24px 0;
+        padding: 14px 30px
+    }
+    .active-tabs {
+        width: 97%
+    }
+    .article-wrap-author {
+        display: block;
+        padding: 33px 0 34px 16px
+    }
+    .employer-wrap-thumb {
+        left: 103px
+    }
+    .fliter_section i.bi.bi-search {
+        left: 259px;
+        padding: 11px 20px 7px
+    }
+    .job_view_content ul li {
+        padding-right: 7px
+    }
+    #pagination_response {
+        width: 92%
+    }
+}
+
+@media screen and (max-width:360px) {
+    #loginForm .checkbox.form-box {
+        margin-top: 0
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 24px 0 12px !important
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        padding: 0 11px 0 10px !important
+    }
+    #twm-title {
+        right: 7px !important
+    }
+    #twm-title02 {
+        right: 8px
+    }
+    .Job_Description {
+        width: 293px !important
+    }
+    .add_responsiv_class {
+        width: 31% !important
+    }
+    .top_navbar2 #Nav_List li a {
+        padding: 0 5px !important
+    }
+    form#loginForm {
+        width: 325px !important;
+        height: 771px;
+        padding: 368px 20px 0
+    }
+    .login__aside-info {
+        bottom: -19pc !important
+    }
+    div#staticBackdrop .modal-header .btn-close {
+        right: -104px !important;
+        top: 15px !important
+    }
+    .right_side_btn img {
+        width: 55px;
+        margin: 0 -13px 0 20px;
+        height: 57px
+    }
+    .LetteR_boX {
+        margin-top: 75px
+    }
+    form#signUpForm {
+        width: 319px !important
+    }
+    #trans_eff .full_biox {
+        width: 45% !important
+    }
+    #right_jobbox {
+        left: 2%
+    }
+    .free_job_post {
+        left: 3% !important
+    }
+    .sing_in_checked {
+        padding: 0 !important
+    }
+    .ForGot {
+        margin-right: 0
+    }
+    .left_Img_section {
+        padding: 34px 10px
+    }
+    .bottom_navbar2 div#navbarNavDropdown li.nav-item ul.dropdown-menu {
+        left: 188px !important;
+        width: 84% !important
+    }
+    .bottom_navbar2 div#navbarNavDropdown li.nav-item a.nav-link.click-scroll {
+        padding: 5px 9px 5px 33px !important
+    }
+    .bottom_navbar2 li.nav-item {
+        display: inline-block !important
+    }
+    .bootstrap-select>.dropdown-toggle {
+        width: 83% !important
+    }
+    .mobile-show-img {
+        display: inline-block;
+        width: 325px;
+        height: 200px
+    }
+    .content_job_text .top_Heading43 {
+        width: 180px
+    }
+    .border_set {
+        top: 9px;
+        left: 38px
+    }
+    .bottom_navbar2 div#navbarNavDropdown {
+        top: -43px !important;
+        left: 0 !important
+    }
+    header#trans_eff .left_logo_side {
+        width: 26% !important
+    }
+    header#trans_eff .full_biox {
+        width: 42% !important
+    }
+    p.Knowledge {
+        margin: 0 !important
+    }
+    p.Letters {
+        margin: 20px 0 0 !important
+    }
+    header.trans_eff a.for_responsive {
+        padding: 7px 7px 6px 0 !important;
+        width: 47% !important
+    }
+    header.trans_eff button.navbar-toggler i.bi.bi-list {
+        font-size: 28px !important;
+        bottom: 12px !important
+    }
+    ul.nav_list li a::after {
+        left: 5px !important
+    }
+    .RECENT.HR.DISCUSSION {
+        margin: 7px 15px 0 0 !important
+    }
+}
+
+@media screen and (max-width:384px) {
+    .btn-12 span,
+    .g-recaptcha {
+        width: 84%
+    }
+    .Article_slide_section img,
+    .two_section_blog img {
+        height: 245px !important
+    }
+    .sign_up button.SubMit_btn {
+        padding: 10px 20px !important;
+        margin-left: 18px;
+        width: 100%
+    }
+    .right_sec_form {
+        margin: 0 0 0 10px !important
+    }
+    .ARTICLES_LISTS h3 {
+        width: 100% !important;
+        margin: 12px 0 11px !important
+    }
+    .HR_forum_detail_center_section,
+    .letter_content_left {
+        padding: 0 22px 0 10px !important
+    }
+    .HR_forum_detail_right_section,
+    .letter_content_right {
+        padding: 0 9px 0 8px !important
+    }
+    .ARTICLES_LISTS li,
+    .Education_section,
+    .PG_Graduate,
+    .all_category,
+    .card-job i.bi.bi-geo-alt,
+    .job_Keywords,
+    ul.nav_list li {
+        padding: 0 !important
+    }
+    ul.nav_list li {
+        margin-left: 0 !important;
+        width: 16% !important
+    }
+    .column_left,
+    .middle_align {
+        width: 93% !important
+    }
+    .bottom-sub-cat li,
+    .sub_category_first_column {
+        margin-bottom: 8px !important;
+        margin-right: 0 !important
+    }
+    .column_right {
+        width: 96% !important
+    }
+    .image_box img {
+        height: 216px !important
+    }
+    .common-thumnail-cat {
+        height: 188px !important
+    }
+    .job_detail_btn {
+        width: 94% !important
+    }
+    header.trans_eff button.navbar-toggler i.bi.bi-list {
+        bottom: 7px !important
+    }
+    .aside__area>div button {
+        width: 84%;
+        padding: 8px 0;
+        font-size: 14px;
+        letter-spacing: 0
+    }
+    form#signUpForm {
+        background: #000;
+        height: 1117px;
+        top: 0;
+        padding: 547px 0 3px 6px;
+        margin: 0 0 0 21px;
+        width: 340px
+    }
+    .sign-up__aside-info {
+        margin-top: 146px;
+        padding-top: 14px !important;
+        background: 0 0;
+        bottom: -53pc
+    }
+    form#loginForm {
+        height: 833px;
+        padding: 405px 20px 0;
+        width: 350px;
+        margin-left: 16px
+    }
+    form#loginFor .form-group.form-box>i.bi.bi {
+        top: 9px
+    }
+    div#staticBackdrop .modal-header .btn-close {
+        right: -140px;
+        top: 20px
+    }
+    .right_input_box {
+        margin: 0 0 9px !important
+    }
+    .bottom_navbar2 div#navbarNavDropdown {
+        top: -43px;
+        width: 53%
+    }
+    .Education_section b,
+    .Exll li strong {
+        font-size: 14px
+    }
+    .Exll li,
+    .Job_Description_box p,
+    .Preview_job_posting_content label.new_label {
+        font-size: 14px;
+        text-align: left;
+        padding: 0 0 0 10px !important
+    }
+    .profile_tit {
+        margin-top: 8px !important
+    }
+    .job_detail_btn i.bi.bi,
+    .slide_on_click_two,
+    .slide_on_click_two.right {
+        display: none
+    }
+    .Job_Description {
+        width: 322px
+    }
+    .navbar-toggler-icon i.bi.bi-list {
+        font-size: 16px !important
+    }
+    .right_input_box>select#country {
+        height: 45px !important
+    }
+    .full_biox {
+        width: 47% !important
+    }
+    header.trans_eff button.navbar-toggler {
+        padding: 12px 0 0 !important
+    }
+    #Article_block_mobile,
+    #Nav_List li:nth-child(3) {
+        width: 10%
+    }
+    #Nav_List li:nth-child(4) {
+        width: 9%
+    }
+    #Nav_List li:nth-child(6) {
+        width: 12%
+    }
+    #Resume_block_mobile {
+        width: 14%;
+        margin-right: 0
+    }
+    #Article_block_mobile div,
+    #Nav_List li:nth-child(3) div,
+    #Nav_List li:nth-child(4) div {
+        right: 0 !important
+    }
+    #Resume_block_mobile div {
+        right: 7px !important
+    }
+    #Nav_List li:nth-child(6) div {
+        right: -1px !important
+    }
+    #Nav_List li a {
+        padding: 0 8px 0 7px !important;
+        font-size: 15px !important;
+        text-align: left
+    }
+    .top_navbar2 {
+        height: 44px
+    }
+    .top_navbar2 ul li>div {
+        top: 14px;
+        height: 17px
+    }
+    #Nav_List li:last-child a {
+        line-height: 19px !important
+    }
+    .job_banner_content {
+        padding: 47px 0 0 3px !important
+    }
+    #hrvidbtn .carousel-control-next,
+    .carousel-control-prev {
+        top: 60px
+    }
+    form#signUpForm .g-recaptcha {
+        width: 92%
+    }
+    div#staticBackdrop .sign_up button.SubMit_btn {
+        max-width: 84%
+    }
+    .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+        width: 332px !important
+    }
+    .left_logo_side {
+        width: 27% !important
+    }
+    .left_input_box {
+        margin: 0 0 -4px !important
+    }
+    p.Knowledge,
+    p.Letters {
+        font-size: 13px !important
+    }
+    #carouselExampleInterval11 .tab-content img {
+        height: 58%
+    }
+    .tab-content {
+        height: 361px !important
+    }
+    .hr_discussion {
+        margin-bottom: 16px
+    }
+    .hr_discussion .right_sec_head {
+        height: 29px !important
+    }
+    input#mobile {
+        width: 95% !important
+    }
+    .aside__area>div p {
+        font-size: 20px;
+        margin-bottom: 19px;
+        line-height: 1px
+    }
+    .aside__area>div {
+        width: 74%
+    }
+    h4#company {
+        width: 23% !important
+    }
+    .first_column_left {
+        padding: 0 10px
+    }
+    .bottom_navbar2 div#navbarNavDropdown li.nav-item ul.dropdown-menu {
+        left: 194px !important;
+        top: -19px;
+        max-width: 100%
+    }
+    #navbarNavDropdown ul.dropdown-menu li a {
+        font-size: 12px
+    }
+    .wrapper__area {
+        display: contents;
+        transform: none;
+        margin: 27px auto;
+        width: 431px;
+        height: 463px
+    }
+    div#staticBackdrop .modal-dialog {
+        max-width: 418px
+    }
+    .login__aside-info {
+        padding-top: 0;
+        bottom: -21pc;
+        height: 49px !important;
+        background: 0 0 !important
+    }
+    .aside__area {
+        width: 300px;
+        height: 20px;
+        left: 71px;
+        background: 0 0
+    }
+    form#loginForm .sing_in_checked {
+        margin: 16px 0 0 15px
+    }
+    body.modal-open {
+        padding-right: 0 !important
+    }
+    form .form__title {
+        margin-bottom: 2px;
+        margin-top: 20px !important
+    }
+    div#staticBackdrop .ForGot {
+        margin-right: 8px !important;
+        font-size: 15px !important;
+        margin-top: 17px !important
+    }
+    div#staticBackdrop {
+        top: 15%;
+        padding: 0 117px 0 0 !important
+    }
+    .dashboard-vertical-nav .tabs label {
+        margin-right: 11px;
+        margin-left: 1px
+    }
+}
+
+@media (min-width:1400px) and (max-width:1400px) {
+    .bottom_navbar2 li.nav-item:nth-child(5),
+    .bottom_navbar2 li.nav-item:nth-child(6),
+    .bottom_navbar2 li.nav-item:nth-child(7) {
+        width: 7%
+    }
+    .item2 {
+        width: 96%;
+        height: 100%
+    }
+    .item3,
+    .item4 {
+        bottom: 0;
+        width: 283px
+    }
+    aside.item::before {
+        top: 36px;
+        left: 70px
+    }
+    .bottom_navbar2 li.nav-item {
+        margin: 0 56px 0 0
+    }
+    .item1,
+    .item1 img {
+        height: 500px
+    }
+    .item4 {
+        right: 7px
+    }
+    .item3 {
+        left: -3px
+    }
+    aside.item {
+        padding: 25px 7px !important
+    }
+    #hr_side_slide .slick-slide img {
+        height: 146px;
+        width: 207px
+    }
+    #Login_SectioN {
+        max-width: 84% !important
+    }
+    .logIn-sec {
+        max-width: 79% !important
+    }
+    .item3 img,
+    .item4 img {
+        max-width: 96%;
+        height: 175px;
+        width: 100%
+    }
+    .middle_article {
+        padding: 0 7px 0 12px
+    }
+    .bottom_article {
+        padding: 0 11px 0 7px
+    }
+    .Article_column_left {
+        padding: 0 19px 0 20px
+    }
+    .slick-slider.slider-thumbs {
+        right: 11px
+    }
+    .right_jobbox {
+        left: 13%
+    }
+}

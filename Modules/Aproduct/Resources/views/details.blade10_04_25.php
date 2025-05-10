@@ -1,0 +1,76 @@
+@extends('frontend.layouts.master')
+
+@section('title', $product->meta_title ?? $product->name)
+@section('description', $product->meta_description ?? str_limit($product->description, 160))
+
+@section('main-content')
+@include('frontend.layouts.partials.inner-banner')
+<nav aria-label="breadcrumb" class="breadcrumb_bg">
+<div class="container-xxl position-relative">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="{{ URL::to('/')  }}">Home</a></li>
+<li class="breadcrumb-item"><a href="{{ URL::to('/acategory')  }}">Category</a></li>
+<li class="breadcrumb-item"><a href="{{ URL::to('/aproducts')  }}">Applications</a></li>
+<li class="breadcrumb-item active" aria-current="page">{{ $product->application_name  }}</li>
+</ol>
+</div>
+</nav>
+
+<div class="mt-3 mb-5">
+<div class="container-xxl position-relative">
+<div class="cms_area">
+<div class="app_pc_box mb-3 shadow border d-flex justify-content-between p-2 m-auto">
+<div class="dtl_thmb">
+<div class="MagicScroll" id="scrollcombined" data-options="orientation:vertical;items:4;loop:off">
+@foreach($media as $v)
+<div class="app_thm text-center overflow-hidden  rounded-3 position-relative">
+<figure class="d-table-cell align-middle text-center m-0">
+<a data-slide-id="zoom" href="{{ asset('assets/images/applications/' . $v->media) }}" data-zoom-id="Zoomer" data-image="{{ asset('assets/images/applications/' . $v->media) }}"><img src="{{ asset('assets/images/applications/' . $v->media) }}" alt="" loading="lazy" fetchpriority="low" decoding="async" ></a></figure>
+</div>
+@endforeach
+</div></div>
+
+<div data-slide-id="zoom" class="app_dtl_pic overflow-hidden m-auto mt-2 mt-lg-3">
+    <figure class="d-table-cell align-middle text-center m-0">
+    @if($product->media != "")
+        <a href="{{ asset('assets/images/applications/' . $product->media) }}" class="MagicZoomPlus" id="Zoomer" title="" data-options="zoomMode:magnifier;"><img src="{{ asset('assets/images/applications/' . $product->media) }}" alt="" loading="lazy" fetchpriority="low" decoding="async"></a>
+    @else
+        <img src="{{ asset('assets/frontend/images/no_image.png') }}" alt="" loading="lazy" fetchpriority="low" decoding="async" style="width: 283px;height: 283px;">
+    @endif    
+    </figure>
+    </div>
+
+
+<div class="clearfix"></div>
+
+</div>
+
+<div class="clearfix"></div>
+<div class="mt-4 ">
+<h2 class="dtl_title fw-bold text-center">{{ $product->application_name  }} </h2>
+
+
+<div class="detail_des_w mt-3 shadow p-3">
+<h2 class=" mb-2 fw-semibold exo">Description</h2>
+
+<div class="tab_cont  fw-medium">
+{!! $product->applications_description !!}
+</div></div>
+
+</div>
+
+</div>
+</div>
+</div>
+
+@push('scripts')
+<script>
+function refreshCaptcha() {
+    event.preventDefault();
+    document.querySelector('.captcha_t img').src = "{{ captcha_src() }}?" + Date.now();
+}
+</script> 
+@endpush
+
+@endsection
+

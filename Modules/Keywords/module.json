@@ -1,0 +1,13 @@
+{
+    "name": "Keywords",
+    "alias": "keywords",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Keywords\\Providers\\KeywordsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,141 @@
+<?php
+
+namespace Modules\Category\Http\Controllers;
+
+use Illuminate\Contracts\Support\Renderable;
+use Illuminate\Http\Request;
+use Illuminate\Routing\Controller;
+use App\Models\Category;
+
+class CategoryController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     * @return Renderable
+     */
+   
+    
+    public function index($slug = null)
+    {
+        if ($slug) {
+            $category = Category::where('slug', $slug)->firstOrFail();
+			//dd($category);
+            $data = getSubcategoriesByParentSlug($slug, ['products']);
+        } else {
+            $data = Category::where('status', 1)
+					->orderBy('priority', 'DESC')
+                //->where('parent_category_id', null)
+                ->get();
+        }
+
+        if ($data->isNotEmpty()) {
+			
+			if(isset($category->slug))
+			{
+				$slug = $category->slug;
+            	return view('category::index', compact('data','slug'));
+			}
+			else
+			{
+				return view('category::index', compact('data'));
+			}
+        }
+		
+		
+        
+        // Redirect to products page with category filter       
+        return redirect()->route('products.index', ['slug' => $slug]);
+    }
+	
+	public function humanResource()
+	{
+		// Add debug logging to verify the method is being called
+		\Log::info('humanResource method accessed');
+		
+		// Make absolutely sure the view exists
+		$viewPath = 'category::human_resource';
+		if (!view()->exists($viewPath)) {
+			\Log::error("View not found: $viewPath");
+			abort(404, "View not found");
+		}
+		
+		return view($viewPath);
+	}
+
+	public function showResource($slug)
+	{    
+		$category = Category::where('slug', $slug)->firstOrFail();
+		$viewPath = 'category::human_resource_sub_page';
+		if (!view()->exists($viewPath)) {
+			\Log::error("View not found: $viewPath");
+			abort(404, "View not found");
+		}
+		
+		return view($viewPath);
+		
+		// Make sure this view path exists
+		//return view('category.human_resource_sub_page', [
+		   // 'category' => $category
+		//]);
+	}
+    
+    /**
+     * Show the form for creating a new resource.
+     * @return Renderable
+     */
+    public function create()
+    {
+        return view('category::create');
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     * @param Request $request
+     * @return Renderable
+     */
+    public function store(Request $request)
+    {
+        //
+    }
+
+    /**
+     * Show the specified resource.
+     * @param int $id
+     * @return Renderable
+     */
+    public function show($id)
+    {
+        return view('category::show');
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     * @param int $id
+     * @return Renderable
+     */
+    public function edit($id)
+    {
+        return view('category::edit');
+    }
+
+    /**
+     * Update the specified resource in storage.
+     * @param Request $request
+     * @param int $id
+     * @return Renderable
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     * @param int $id
+     * @return Renderable
+     */
+    public function destroy($id)
+    {
+        //
+    }
+}

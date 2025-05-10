@@ -1,0 +1,97 @@
+.modal-content {
+    margin: auto;
+    margin-top: auto;
+    display: block;
+    width: 98%;
+    max-width: 700px;
+    margin-top: 12px;
+}
+
+.modal-content { 
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+#img-viewer {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 20px;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+    background-color: transparent
+}
+
+#img-viewer .close {
+    position: absolute;
+    top: 0px;
+    right: 8px;
+    /*color: #f1f1f1;*/
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+#img-viewer .close:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+.img-container{
+    position:relative;
+    width:180px;   
+}
+.img-source{
+    /*border:5px solid #ccc; */
+    border-radius:5px;
+    width: 50%;
+    cursor: pointer;
+}
+.expand-icon{
+    position:absolute; 
+    right:10px; 
+    top:15px; 
+    cursor:pointer;
+    width: 10px;
+}
+.img-auto-width{
+    width: auto !important;
+}
+
+/**************************************For Modal***************************************/
+
+.custom-modal .modal-dialog {
+    max-width: 800px; /* Custom width */
+    
+}
+
+.custom-modal .modal-content {
+    height: 100%; /* Ensure modal-content takes full height */
+}
+
+.custom-modal-botton{
+    background-color: #81a0c1 !important;
+    margin-top: 7px;
+}
+
+.custom-modal-botton:hover{
+    cursor: pointer;
+    background-color: #93a4b7 !important;
+}
+
+
+
+/*************************************************************************************/
